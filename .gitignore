@@ -18,8 +18,12 @@ env/
 .env.*
 
 # Generated / runtime artifacts
-workouts.json
+/workouts.json
 *.log
+
+# Keep GitHub Pages payload tracked
+!docs/index.html
+!docs/workouts.json
 
 # VS Code
 .vscode/
