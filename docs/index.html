@@ -21,6 +21,37 @@
         margin-top: 0;
       }
 
+      .toolbar {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        margin-bottom: 16px;
+      }
+
+      button {
+        border: 1px solid #4a63d8;
+        background: #4a63d8;
+        color: white;
+        border-radius: 8px;
+        padding: 8px 12px;
+        cursor: pointer;
+      }
+
+      button.secondary {
+        background: white;
+        color: #4a63d8;
+      }
+
+      pre {
+        background: #111827;
+        color: #e5e7eb;
+        padding: 16px;
+        border-radius: 10px;
+        overflow: auto;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
       .card {
         background: #fff;
         border: 1px solid #d8dceb;
@@ -50,9 +81,60 @@
   </head>
   <body>
     <h1>Workout Data</h1>
+    <div class="toolbar">
+      <button id="jsonBtn">JSON View</button>
+      <button id="humanBtn" class="secondary">Human View</button>
+    </div>
     <div id="app"></div>
 
     <script>
+      let workoutData = [];
+      let currentView = "json";
+
+      function renderJson() {
+        const app = document.getElementById("app");
+        app.innerHTML = `<pre>${JSON.stringify(workoutData, null, 2)}</pre>`;
+      }
+
+      function renderHuman() {
+        const app = document.getElementById("app");
+        app.innerHTML = "";
+
+        workoutData.forEach((item) => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          const title = item.title || "Untitled Workout";
+          const image = item.main_image || "";
+          const equipment = (item.equipment_required || []).join(", ") || "N/A";
+          const primary = (item.muscles_worked_primary || []).join(", ") || "N/A";
+          const secondary = (item.muscles_worked_secondary || []).join(", ") || "N/A";
+          const description = item.description || "No description available.";
+
+          card.innerHTML = `
+            <h2>${title}</h2>
+            <div class="muted">
+              <strong>Equipment:</strong> ${equipment}<br />
+              <strong>Primary muscles:</strong> ${primary}<br />
+              <strong>Secondary muscles:</strong> ${secondary}
+            </div>
+            ${image ? `<img src="${image}" alt="${title}" />` : ""}
+            <p>${description}</p>
+          `;
+
+          app.appendChild(card);
+        });
+      }
+
+      function switchView(view) {
+        currentView = view;
+        if (view === "json") {
+          renderJson();
+        } else {
+          renderHuman();
+        }
+      }
+
       async function loadData() {
         const app = document.getElementById("app");
         try {
@@ -61,45 +143,25 @@
             throw new Error(`HTTP ${response.status}`);
           }
 
-          const data = await response.json();
-          if (!Array.isArray(data)) {
+          workoutData = await response.json();
+          if (!Array.isArray(workoutData)) {
             throw new Error("Expected a JSON array");
           }
 
-          if (data.length === 0) {
+          if (workoutData.length === 0) {
             app.innerHTML = "<p>No workout data found.</p>";
             return;
           }
 
-          data.forEach((item) => {
-            const card = document.createElement("div");
-            card.className = "card";
-
-            const title = item.title || "Untitled Workout";
-            const image = item.main_image || "";
-            const equipment = (item.equipment_required || []).join(", ") || "N/A";
-            const primary = (item.muscles_worked_primary || []).join(", ") || "N/A";
-            const secondary = (item.muscles_worked_secondary || []).join(", ") || "N/A";
-            const description = item.description || "No description available.";
-
-            card.innerHTML = `
-              <h2>${title}</h2>
-              <div class="muted">
-                <strong>Equipment:</strong> ${equipment}<br />
-                <strong>Primary muscles:</strong> ${primary}<br />
-                <strong>Secondary muscles:</strong> ${secondary}
-              </div>
-              ${image ? `<img src="${image}" alt="${title}" />` : ""}
-              <p>${description}</p>
-            `;
-
-            app.appendChild(card);
-          });
+          switchView("json");
         } catch (error) {
           console.error(error);
           app.innerHTML = "<p>Failed to load workout data.</p>";
         }
       }
+
+      document.getElementById("jsonBtn").addEventListener("click", () => switchView("json"));
+      document.getElementById("humanBtn").addEventListener("click", () => switchView("human"));
 
       loadData();
     </script>
