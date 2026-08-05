@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Workout Data</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      body {
+        margin: 0;
+        padding: 24px;
+        background: #f6f7fb;
+        color: #222;
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      .card {
+        background: #fff;
+        border: 1px solid #d8dceb;
+        border-radius: 10px;
+        padding: 16px;
+        margin-bottom: 16px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      }
+
+      .card h2 {
+        margin-top: 0;
+      }
+
+      .card img {
+        max-width: 260px;
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        display: block;
+        margin: 12px 0;
+      }
+
+      .muted {
+        color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Workout Data</h1>
+    <div id="app"></div>
+
+    <script>
+      async function loadData() {
+        const app = document.getElementById("app");
+        try {
+          const response = await fetch("./workouts.json");
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+
+          const data = await response.json();
+          if (!Array.isArray(data)) {
+            throw new Error("Expected a JSON array");
+          }
+
+          if (data.length === 0) {
+            app.innerHTML = "<p>No workout data found.</p>";
+            return;
+          }
+
+          data.forEach((item) => {
+            const card = document.createElement("div");
+            card.className = "card";
+
+            const title = item.title || "Untitled Workout";
+            const image = item.main_image || "";
+            const equipment = (item.equipment_required || []).join(", ") || "N/A";
+            const primary = (item.muscles_worked_primary || []).join(", ") || "N/A";
+            const secondary = (item.muscles_worked_secondary || []).join(", ") || "N/A";
+            const description = item.description || "No description available.";
+
+            card.innerHTML = `
+              <h2>${title}</h2>
+              <div class="muted">
+                <strong>Equipment:</strong> ${equipment}<br />
+                <strong>Primary muscles:</strong> ${primary}<br />
+                <strong>Secondary muscles:</strong> ${secondary}
+              </div>
+              ${image ? `<img src="${image}" alt="${title}" />` : ""}
+              <p>${description}</p>
+            `;
+
+            app.appendChild(card);
+          });
+        } catch (error) {
+          console.error(error);
+          app.innerHTML = "<p>Failed to load workout data.</p>";
+        }
+      }
+
+      loadData();
+    </script>
+  </body>
+</html>
