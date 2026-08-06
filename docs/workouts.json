@@ -1,7 +1,7 @@
 [
   {
     "title": "180 / Twisting Jump Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84738",
+    "main_image": "./images/180-twisting-jump-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -18,7 +18,7 @@
   },
   {
     "title": "Ab Crunch Machine",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84739",
+    "main_image": "./images/ab-crunch-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -30,7 +30,7 @@
   },
   {
     "title": "Ab Roller / Wheel Rollout / Kneeling Roll Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84740",
+    "main_image": "./images/ab-roller-wheel-rollout-kneeling-roll-extensions.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -45,7 +45,7 @@
   },
   {
     "title": "Adductor / Adduction Inner Thigh Machine",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85304",
+    "main_image": "./images/adductor-adduction-inner-thigh-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -57,7 +57,7 @@
   },
   {
     "title": "Agility Ladder Drills",
-    "main_image": "No main image found",
+    "main_image": "./images/agility-ladder-drills.svg",
     "equipment_required": [
       "Agility Ladder"
     ],
@@ -78,7 +78,7 @@
   },
   {
     "title": "Air Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84742",
+    "main_image": "./images/air-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -93,7 +93,7 @@
   },
   {
     "title": "Alternate Heel Touches / Lying Oblique Reach",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84743",
+    "main_image": "./images/alternate-heel-touches-lying-oblique-reach.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -107,7 +107,7 @@
   },
   {
     "title": "Alternating Bodyweight Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84805",
+    "main_image": "./images/alternating-bodyweight-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -122,7 +122,7 @@
   },
   {
     "title": "Alternating Curtsy Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84745",
+    "main_image": "./images/alternating-curtsy-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -138,7 +138,7 @@
   },
   {
     "title": "Ankle Circles / Rotations / Rolls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84746",
+    "main_image": "./images/ankle-circles-rotations-rolls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -150,7 +150,7 @@
   },
   {
     "title": "Ankle Pumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86444",
+    "main_image": "./images/ankle-pumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -164,7 +164,7 @@
   },
   {
     "title": "Ankle Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95553",
+    "main_image": "./images/ankle-stretch.svg",
     "equipment_required": [],
     "muscles_worked_primary": [
       "Ankles"
@@ -176,7 +176,7 @@
   },
   {
     "title": "Assisted / Machine Seated Tricep Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84752",
+    "main_image": "./images/assisted-machine-seated-tricep-dips.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -188,7 +188,7 @@
   },
   {
     "title": "Assisted Tricep Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84751",
+    "main_image": "./images/assisted-tricep-dips.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -202,7 +202,7 @@
   },
   {
     "title": "Back Extensions / Hyperextensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84753",
+    "main_image": "./images/back-extensions-hyperextensions.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -217,7 +217,7 @@
   },
   {
     "title": "Balance Clock / Toe Taps / Reaches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=103021",
+    "main_image": "./images/balance-clock-toe-taps-reaches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -233,7 +233,7 @@
   },
   {
     "title": "Barbell / Box / Block Cleans",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86040",
+    "main_image": "./images/barbell-box-block-cleans.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -249,7 +249,7 @@
   },
   {
     "title": "Barbell Bench Press / Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84755",
+    "main_image": "./images/barbell-bench-press-chest-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -264,7 +264,7 @@
   },
   {
     "title": "Barbell Box Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84756",
+    "main_image": "./images/barbell-box-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -280,7 +280,7 @@
   },
   {
     "title": "Barbell Clean and Press / Jerk / Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84779",
+    "main_image": "./images/barbell-clean-and-press-jerk-overhead-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -298,7 +298,7 @@
   },
   {
     "title": "Barbell Cleans",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84758",
+    "main_image": "./images/barbell-cleans.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -313,7 +313,7 @@
   },
   {
     "title": "Barbell Curls / Standing Biceps Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84759",
+    "main_image": "./images/barbell-curls-standing-biceps-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -327,7 +327,7 @@
   },
   {
     "title": "Barbell Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84760",
+    "main_image": "./images/barbell-deadlifts.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -347,7 +347,7 @@
   },
   {
     "title": "Barbell Drag Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84761",
+    "main_image": "./images/barbell-drag-bicep-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -361,7 +361,7 @@
   },
   {
     "title": "Barbell Front Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84762",
+    "main_image": "./images/barbell-front-raises.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -376,7 +376,7 @@
   },
   {
     "title": "Barbell Good Mornings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84763",
+    "main_image": "./images/barbell-good-mornings.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -392,7 +392,7 @@
   },
   {
     "title": "Barbell Hack Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84764",
+    "main_image": "./images/barbell-hack-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -408,7 +408,7 @@
   },
   {
     "title": "Barbell High Pulls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84765",
+    "main_image": "./images/barbell-high-pulls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -426,7 +426,7 @@
   },
   {
     "title": "Barbell Hip Thrusts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84766",
+    "main_image": "./images/barbell-hip-thrusts.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -440,7 +440,7 @@
   },
   {
     "title": "Barbell Kneeling Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86450",
+    "main_image": "./images/barbell-kneeling-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -452,7 +452,7 @@
   },
   {
     "title": "Barbell Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84767",
+    "main_image": "./images/barbell-lunges.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -469,7 +469,7 @@
   },
   {
     "title": "Barbell Overhead Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84768",
+    "main_image": "./images/barbell-overhead-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -486,7 +486,7 @@
   },
   {
     "title": "Barbell Power Snatch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86456",
+    "main_image": "./images/barbell-power-snatch.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -506,7 +506,7 @@
   },
   {
     "title": "Barbell Pullovers / Lying Chest Overhead Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84769",
+    "main_image": "./images/barbell-pullovers-lying-chest-overhead-extensions.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -523,7 +523,7 @@
   },
   {
     "title": "Barbell Push and Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86053",
+    "main_image": "./images/barbell-push-and-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -540,7 +540,7 @@
   },
   {
     "title": "Barbell Pushups / Push-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84770",
+    "main_image": "./images/barbell-pushups-push-ups.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -556,7 +556,7 @@
   },
   {
     "title": "Barbell Shoulder Press / Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84771",
+    "main_image": "./images/barbell-shoulder-press-overhead-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -572,7 +572,7 @@
   },
   {
     "title": "Barbell Shoulder Shrugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84772",
+    "main_image": "./images/barbell-shoulder-shrugs.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -587,7 +587,7 @@
   },
   {
     "title": "Barbell Snatch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84773",
+    "main_image": "./images/barbell-snatch.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -603,7 +603,7 @@
   },
   {
     "title": "Barbell Split Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84775",
+    "main_image": "./images/barbell-split-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -619,7 +619,7 @@
   },
   {
     "title": "Barbell Squat / Power Cleans",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86068",
+    "main_image": "./images/barbell-squat-power-cleans.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -636,7 +636,7 @@
   },
   {
     "title": "Barbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84776",
+    "main_image": "./images/barbell-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -654,7 +654,7 @@
   },
   {
     "title": "Barbell Step-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84777",
+    "main_image": "./images/barbell-step-ups.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -670,7 +670,7 @@
   },
   {
     "title": "Barbell Windshield Wipers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85332",
+    "main_image": "./images/barbell-windshield-wipers.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -684,7 +684,7 @@
   },
   {
     "title": "Battle Bilateral Waves",
-    "main_image": "No main image found",
+    "main_image": "./images/battle-bilateral-waves.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -702,7 +702,7 @@
   },
   {
     "title": "Battle Rope Double Arm Slams",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84780",
+    "main_image": "./images/battle-rope-double-arm-slams.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -722,7 +722,7 @@
   },
   {
     "title": "Battle Rope Double Waves",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84781",
+    "main_image": "./images/battle-rope-double-waves.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -740,7 +740,7 @@
   },
   {
     "title": "Battle Rope Jumping Jacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84782",
+    "main_image": "./images/battle-rope-jumping-jacks.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -758,7 +758,7 @@
   },
   {
     "title": "Battle Rope Reverse Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84783",
+    "main_image": "./images/battle-rope-reverse-lunges.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -774,7 +774,7 @@
   },
   {
     "title": "Battle Rope Snakes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86458",
+    "main_image": "./images/battle-rope-snakes.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -795,7 +795,7 @@
   },
   {
     "title": "Battle Rope Squatting Alternating Waves",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84784",
+    "main_image": "./images/battle-rope-squatting-alternating-waves.svg",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -814,7 +814,7 @@
   },
   {
     "title": "Bear Crawls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84785",
+    "main_image": "./images/bear-crawls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -832,7 +832,7 @@
   },
   {
     "title": "Bear Crawls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=97347",
+    "main_image": "./images/bear-crawls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -851,7 +851,7 @@
   },
   {
     "title": "Behind Back Standing Resistance Band Chest Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101762",
+    "main_image": "./images/behind-back-standing-resistance-band-chest-presses.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -866,7 +866,7 @@
   },
   {
     "title": "Behind-the-Back Standing Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85251",
+    "main_image": "./images/behind-the-back-standing-bicep-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -878,7 +878,7 @@
   },
   {
     "title": "Bench Cable Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84786",
+    "main_image": "./images/bench-cable-flyes.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -890,7 +890,7 @@
   },
   {
     "title": "Bench Flutter Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84787",
+    "main_image": "./images/bench-flutter-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -904,7 +904,7 @@
   },
   {
     "title": "Bench Hops / Box Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84788",
+    "main_image": "./images/bench-hops-box-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -921,7 +921,7 @@
   },
   {
     "title": "Bent Over Barbell Row from Floor / Barbell / Pendlay Row",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84791",
+    "main_image": "./images/bent-over-barbell-row-from-floor-barbell-pendlay-row.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -937,7 +937,7 @@
   },
   {
     "title": "Bent Over Barbell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84792",
+    "main_image": "./images/bent-over-barbell-rows.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -955,7 +955,7 @@
   },
   {
     "title": "Bent Over Double Arm Tricep Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84795",
+    "main_image": "./images/bent-over-double-arm-tricep-kickbacks.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -970,7 +970,7 @@
   },
   {
     "title": "Bent Over Dumbbell Shoulder Pendulums / Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86083",
+    "main_image": "./images/bent-over-dumbbell-shoulder-pendulums-swings.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -984,7 +984,7 @@
   },
   {
     "title": "Bent Over Shoulder Pendulums / Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86091",
+    "main_image": "./images/bent-over-shoulder-pendulums-swings.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -998,7 +998,7 @@
   },
   {
     "title": "Bent Over Two-Arm Long Barbell / T-Bar Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84796",
+    "main_image": "./images/bent-over-two-arm-long-barbell-t-bar-rows.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -1016,7 +1016,7 @@
   },
   {
     "title": "Bent Over Two-Armed Water Bottle Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84794",
+    "main_image": "./images/bent-over-two-armed-water-bottle-rows.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -1031,7 +1031,7 @@
   },
   {
     "title": "Bent Over Water Bottle Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84793",
+    "main_image": "./images/bent-over-water-bottle-flyes.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -1045,7 +1045,7 @@
   },
   {
     "title": "Bicycles / Elbow-to-Knee Crunches / Cross-body Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84797",
+    "main_image": "./images/bicycles-elbow-to-knee-crunches-cross-body-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1061,7 +1061,7 @@
   },
   {
     "title": "Bird Dogs / Alternating Reach & Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84798",
+    "main_image": "./images/bird-dogs-alternating-reach-kickbacks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1076,7 +1076,7 @@
   },
   {
     "title": "Bodyweight Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84800",
+    "main_image": "./images/bodyweight-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1088,7 +1088,7 @@
   },
   {
     "title": "Bodyweight Shoulder Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84801",
+    "main_image": "./images/bodyweight-shoulder-presses.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1102,7 +1102,7 @@
   },
   {
     "title": "Bodyweight Side Steps / Lateral Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84802",
+    "main_image": "./images/bodyweight-side-steps-lateral-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1119,7 +1119,7 @@
   },
   {
     "title": "Bodyweight Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84803",
+    "main_image": "./images/bodyweight-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1136,7 +1136,7 @@
   },
   {
     "title": "Bodyweight Sumo / Wide Stance Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84804",
+    "main_image": "./images/bodyweight-sumo-wide-stance-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1151,7 +1151,7 @@
   },
   {
     "title": "Bodyweight Walking Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86098",
+    "main_image": "./images/bodyweight-walking-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1166,7 +1166,7 @@
   },
   {
     "title": "Bosu Ball Bridges Hip Raises / Glute Bridges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84820",
+    "main_image": "./images/bosu-ball-bridges-hip-raises-glute-bridges.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1181,7 +1181,7 @@
   },
   {
     "title": "Bosu Ball Burpees",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84808",
+    "main_image": "./images/bosu-ball-burpees.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1200,7 +1200,7 @@
   },
   {
     "title": "Bosu Ball Chest Dumbbell Flyes / Flies",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84809",
+    "main_image": "./images/bosu-ball-chest-dumbbell-flyes-flies.svg",
     "equipment_required": [
       "Bosu Ball",
       "Dumbbells"
@@ -1217,7 +1217,7 @@
   },
   {
     "title": "Bosu Ball Chest Dumbbell Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84810",
+    "main_image": "./images/bosu-ball-chest-dumbbell-press.svg",
     "equipment_required": [
       "Bosu Ball",
       "Dumbbells"
@@ -1233,7 +1233,7 @@
   },
   {
     "title": "Bosu Ball Leg Pull-in / Knee Tucks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84811",
+    "main_image": "./images/bosu-ball-leg-pull-in-knee-tucks.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1249,7 +1249,7 @@
   },
   {
     "title": "Bosu Ball Mountain Climbers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84812",
+    "main_image": "./images/bosu-ball-mountain-climbers.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1266,7 +1266,7 @@
   },
   {
     "title": "Bosu Ball Plank",
-    "main_image": "No main image found",
+    "main_image": "./images/bosu-ball-plank.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1281,7 +1281,7 @@
   },
   {
     "title": "Bosu Ball Plank Leg Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86460",
+    "main_image": "./images/bosu-ball-plank-leg-lifts.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1297,7 +1297,7 @@
   },
   {
     "title": "Bosu Ball Plank to Push-Up / Walking Plank Up-Downs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85088",
+    "main_image": "./images/bosu-ball-plank-to-push-up-walking-plank-up-downs.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1313,7 +1313,7 @@
   },
   {
     "title": "Bosu Ball Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84815",
+    "main_image": "./images/bosu-ball-push-ups-pushups.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1329,7 +1329,7 @@
   },
   {
     "title": "Bosu Ball Side Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/bosu-ball-side-planks.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1344,7 +1344,7 @@
   },
   {
     "title": "Bosu Ball Single / One Leg Bridge / Hip Thrusts / Extensions / Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84807",
+    "main_image": "./images/bosu-ball-single-one-leg-bridge-hip-thrusts-extensions-raises.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1359,7 +1359,7 @@
   },
   {
     "title": "Bosu Ball Single / One Leg Pistol Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84816",
+    "main_image": "./images/bosu-ball-single-one-leg-pistol-squats.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1375,7 +1375,7 @@
   },
   {
     "title": "Bosu Ball Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84817",
+    "main_image": "./images/bosu-ball-squats.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1392,7 +1392,7 @@
   },
   {
     "title": "Bosu Ball Static Balance",
-    "main_image": "No main image found",
+    "main_image": "./images/bosu-ball-static-balance.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1408,7 +1408,7 @@
   },
   {
     "title": "Bosu Ball V-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84819",
+    "main_image": "./images/bosu-ball-v-ups.svg",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1422,7 +1422,7 @@
   },
   {
     "title": "Box Pike Holds",
-    "main_image": "No main image found",
+    "main_image": "./images/box-pike-holds.svg",
     "equipment_required": [
       "Plyo Box"
     ],
@@ -1437,7 +1437,7 @@
   },
   {
     "title": "Boxing with a Punching Bag",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84830",
+    "main_image": "./images/boxing-with-a-punching-bag.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1456,7 +1456,7 @@
   },
   {
     "title": "Bulgarian Split Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84831",
+    "main_image": "./images/bulgarian-split-squats.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -1472,7 +1472,7 @@
   },
   {
     "title": "Burpees / Squat Thrusts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84832",
+    "main_image": "./images/burpees-squat-thrusts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1488,7 +1488,7 @@
   },
   {
     "title": "Butt Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84833",
+    "main_image": "./images/butt-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1503,7 +1503,7 @@
   },
   {
     "title": "Butterflies / Pec Deck / Seated Machine Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84834",
+    "main_image": "./images/butterflies-pec-deck-seated-machine-flyes.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1518,7 +1518,7 @@
   },
   {
     "title": "Butterfly Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/butterfly-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1532,7 +1532,7 @@
   },
   {
     "title": "Cable Core Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84835",
+    "main_image": "./images/cable-core-rotation.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1546,7 +1546,7 @@
   },
   {
     "title": "Cable Hammer Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84837",
+    "main_image": "./images/cable-hammer-bicep-curls.svg",
     "equipment_required": [
       "Cable Station",
       "Full gym"
@@ -1561,7 +1561,7 @@
   },
   {
     "title": "Cable Hip Abduction / Adduction",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84838",
+    "main_image": "./images/cable-hip-abduction-adduction.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1573,7 +1573,7 @@
   },
   {
     "title": "Cable Hip Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84839",
+    "main_image": "./images/cable-hip-extensions.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1588,7 +1588,7 @@
   },
   {
     "title": "Cable Pull Throughs / Pulls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84840",
+    "main_image": "./images/cable-pull-throughs-pulls.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1602,7 +1602,7 @@
   },
   {
     "title": "Cable Rope Overhead Triceps Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84841",
+    "main_image": "./images/cable-rope-overhead-triceps-extensions.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1616,7 +1616,7 @@
   },
   {
     "title": "Cable Shrugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84842",
+    "main_image": "./images/cable-shrugs.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1630,7 +1630,7 @@
   },
   {
     "title": "Cable Squat Rows / Row Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85225",
+    "main_image": "./images/cable-squat-rows-row-squats.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1648,7 +1648,7 @@
   },
   {
     "title": "Cable Triceps Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84843",
+    "main_image": "./images/cable-triceps-kickbacks.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1662,7 +1662,7 @@
   },
   {
     "title": "Cable Upright Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85315",
+    "main_image": "./images/cable-upright-rows.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -1677,7 +1677,7 @@
   },
   {
     "title": "Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95537",
+    "main_image": "./images/calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1691,7 +1691,7 @@
   },
   {
     "title": "Captain's Chair Leg / Knee / Hip Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85003",
+    "main_image": "./images/captain-s-chair-leg-knee-hip-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1705,7 +1705,7 @@
   },
   {
     "title": "Cardio - Assault Bike",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-assault-bike.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1718,7 +1718,7 @@
   },
   {
     "title": "Cardio - Walking / Treadmill",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-walking-treadmill.svg",
     "equipment_required": [
       "NO EQUIPMENT",
       "Treadmill"
@@ -1735,7 +1735,7 @@
   },
   {
     "title": "Cardio – Road Bike / Cycling / Riding",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-road-bike-cycling-riding.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1751,7 +1751,7 @@
   },
   {
     "title": "Cardio – Running / Jogging / Treadmill",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-running-jogging-treadmill.svg",
     "equipment_required": [
       "NO EQUIPMENT",
       "Treadmill"
@@ -1767,7 +1767,7 @@
   },
   {
     "title": "Cardio – Swimming",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-swimming.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1790,7 +1790,7 @@
   },
   {
     "title": "Cardio – Cross Trainer / Crosstrainer Machine",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-cross-trainer-crosstrainer-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1808,7 +1808,7 @@
   },
   {
     "title": "Cardio – Elliptical Machine",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-elliptical-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1824,7 +1824,7 @@
   },
   {
     "title": "Cardio – Recumbent Bike",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-recumbent-bike.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1840,7 +1840,7 @@
   },
   {
     "title": "Cardio – Rowing Machine",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-rowing-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1858,7 +1858,7 @@
   },
   {
     "title": "Cardio – Stairmaster / Stairmill",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-stairmaster-stairmill.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1874,7 +1874,7 @@
   },
   {
     "title": "Cardio – Stationary / Exercise Bike / Bicycle Spinning",
-    "main_image": "No main image found",
+    "main_image": "./images/cardio-stationary-exercise-bike-bicycle-spinning.svg",
     "equipment_required": [
       "Stationary Bike"
     ],
@@ -1890,7 +1890,7 @@
   },
   {
     "title": "Cat Back / Backward Camel Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84855",
+    "main_image": "./images/cat-back-backward-camel-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1904,7 +1904,7 @@
   },
   {
     "title": "Chair / Bench Tricep Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84857",
+    "main_image": "./images/chair-bench-tricep-dips.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1918,7 +1918,7 @@
   },
   {
     "title": "Chair Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85336",
+    "main_image": "./images/chair-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1935,7 +1935,7 @@
   },
   {
     "title": "Chin Tucks / Neck Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86464",
+    "main_image": "./images/chin-tucks-neck-extensions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1947,7 +1947,7 @@
   },
   {
     "title": "Clamshells / Clams",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84862",
+    "main_image": "./images/clamshells-clams.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1959,7 +1959,7 @@
   },
   {
     "title": "Close Grip Lat Pulldowns / Pull Downs / Pullovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84863",
+    "main_image": "./images/close-grip-lat-pulldowns-pull-downs-pullovers.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1973,7 +1973,7 @@
   },
   {
     "title": "Close Grip Pullups / Chinups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84865",
+    "main_image": "./images/close-grip-pullups-chinups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -1989,7 +1989,7 @@
   },
   {
     "title": "Close-Grip Overhand Barbell Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84864",
+    "main_image": "./images/close-grip-overhand-barbell-bench-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -2004,7 +2004,7 @@
   },
   {
     "title": "Cobra Abdominal Stretch / Old Horse Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/cobra-abdominal-stretch-old-horse-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2018,7 +2018,7 @@
   },
   {
     "title": "Contralateral Limb Raises",
-    "main_image": "No main image found",
+    "main_image": "./images/contralateral-limb-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2034,7 +2034,7 @@
   },
   {
     "title": "Cossack Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86120",
+    "main_image": "./images/cossack-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2049,7 +2049,7 @@
   },
   {
     "title": "Crab Toe Touches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84870",
+    "main_image": "./images/crab-toe-touches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2069,7 +2069,7 @@
   },
   {
     "title": "Crab Walks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84871",
+    "main_image": "./images/crab-walks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2084,7 +2084,7 @@
   },
   {
     "title": "Crab Walks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=97365",
+    "main_image": "./images/crab-walks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2098,7 +2098,7 @@
   },
   {
     "title": "Cross body Cable Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84874",
+    "main_image": "./images/cross-body-cable-rows.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -2114,7 +2114,7 @@
   },
   {
     "title": "Cross Body Mountain Climbers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84873",
+    "main_image": "./images/cross-body-mountain-climbers.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2128,7 +2128,7 @@
   },
   {
     "title": "Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85212",
+    "main_image": "./images/crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2140,7 +2140,7 @@
   },
   {
     "title": "Dance / Dancing",
-    "main_image": "No main image found",
+    "main_image": "./images/dance-dancing.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2150,7 +2150,7 @@
   },
   {
     "title": "Dead Bug",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84876",
+    "main_image": "./images/dead-bug.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2162,7 +2162,7 @@
   },
   {
     "title": "Dead Bugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=97390",
+    "main_image": "./images/dead-bugs.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2176,7 +2176,7 @@
   },
   {
     "title": "Decline Barbell Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84878",
+    "main_image": "./images/decline-barbell-bench-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -2190,7 +2190,7 @@
   },
   {
     "title": "Decline Barbell Smith Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86128",
+    "main_image": "./images/decline-barbell-smith-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -2204,7 +2204,7 @@
   },
   {
     "title": "Decline Bench Crunches / Sit-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84879",
+    "main_image": "./images/decline-bench-crunches-sit-ups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -2216,7 +2216,7 @@
   },
   {
     "title": "Decline Bench Dumbbell Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84877",
+    "main_image": "./images/decline-bench-dumbbell-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2231,7 +2231,7 @@
   },
   {
     "title": "Decline Dumbbell Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84880",
+    "main_image": "./images/decline-dumbbell-flyes.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2247,7 +2247,7 @@
   },
   {
     "title": "Decline Lying Triceps Extension / Decline Skull Crushers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84881",
+    "main_image": "./images/decline-lying-triceps-extension-decline-skull-crushers.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Dumbbells"
@@ -2263,7 +2263,7 @@
   },
   {
     "title": "Decline Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84882",
+    "main_image": "./images/decline-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2279,7 +2279,7 @@
   },
   {
     "title": "Diamond / Pyramid / Triceps Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84884",
+    "main_image": "./images/diamond-pyramid-triceps-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2295,7 +2295,7 @@
   },
   {
     "title": "Donkey Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84887",
+    "main_image": "./images/donkey-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2309,7 +2309,7 @@
   },
   {
     "title": "Double Arm Front Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84892",
+    "main_image": "./images/double-arm-front-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2324,7 +2324,7 @@
   },
   {
     "title": "Double Arm Front Raises to Overhead Extension",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86135",
+    "main_image": "./images/double-arm-front-raises-to-overhead-extension.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2338,7 +2338,7 @@
   },
   {
     "title": "Double Arm Side / Lateral Raises / Shoulder Abductions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86466",
+    "main_image": "./images/double-arm-side-lateral-raises-shoulder-abductions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2352,7 +2352,7 @@
   },
   {
     "title": "Double Arm Side / Lateral Raises to Overhead Extension",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86142",
+    "main_image": "./images/double-arm-side-lateral-raises-to-overhead-extension.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2366,7 +2366,7 @@
   },
   {
     "title": "Double Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84890",
+    "main_image": "./images/double-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2378,7 +2378,7 @@
   },
   {
     "title": "Double Side Jackknifes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84889",
+    "main_image": "./images/double-side-jackknifes.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2393,7 +2393,7 @@
   },
   {
     "title": "Downward Cable Wood Chops",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84895",
+    "main_image": "./images/downward-cable-wood-chops.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -2407,7 +2407,7 @@
   },
   {
     "title": "Dual / Two Arm Dumbbell Front Shoulder Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84896",
+    "main_image": "./images/dual-two-arm-dumbbell-front-shoulder-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2422,7 +2422,7 @@
   },
   {
     "title": "Duck Walks / Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84897",
+    "main_image": "./images/duck-walks-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2437,7 +2437,7 @@
   },
   {
     "title": "Dumbbell Bent Over Lateral Rear Delt Raises / Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85312",
+    "main_image": "./images/dumbbell-bent-over-lateral-rear-delt-raises-flyes.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2449,7 +2449,7 @@
   },
   {
     "title": "Dumbbell Bicep Reverse Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84909",
+    "main_image": "./images/dumbbell-bicep-reverse-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Cable Station",
@@ -2465,7 +2465,7 @@
   },
   {
     "title": "Dumbbell Biceps Curl to Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84900",
+    "main_image": "./images/dumbbell-biceps-curl-to-shoulder-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2480,7 +2480,7 @@
   },
   {
     "title": "Dumbbell Chops",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84901",
+    "main_image": "./images/dumbbell-chops.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2497,7 +2497,7 @@
   },
   {
     "title": "Dumbbell Cuban Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84902",
+    "main_image": "./images/dumbbell-cuban-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2511,7 +2511,7 @@
   },
   {
     "title": "Dumbbell Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84903",
+    "main_image": "./images/dumbbell-deadlifts.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2529,7 +2529,7 @@
   },
   {
     "title": "Dumbbell Flat Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84899",
+    "main_image": "./images/dumbbell-flat-bench-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2545,7 +2545,7 @@
   },
   {
     "title": "Dumbbell Floor Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84904",
+    "main_image": "./images/dumbbell-floor-chest-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2561,7 +2561,7 @@
   },
   {
     "title": "Dumbbell Incline Bench Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84905",
+    "main_image": "./images/dumbbell-incline-bench-rows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2578,7 +2578,7 @@
   },
   {
     "title": "Dumbbell Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84907",
+    "main_image": "./images/dumbbell-lunges.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2595,7 +2595,7 @@
   },
   {
     "title": "Dumbbell Overhead Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84911",
+    "main_image": "./images/dumbbell-overhead-shoulder-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2611,7 +2611,7 @@
   },
   {
     "title": "Dumbbell Pullovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84908",
+    "main_image": "./images/dumbbell-pullovers.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2628,7 +2628,7 @@
   },
   {
     "title": "Dumbbell Shrugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86468",
+    "main_image": "./images/dumbbell-shrugs.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2640,7 +2640,7 @@
   },
   {
     "title": "Dumbbell Side Lunges / Lateral Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85181",
+    "main_image": "./images/dumbbell-side-lunges-lateral-lunges.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2656,7 +2656,7 @@
   },
   {
     "title": "Dumbbell Snatch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84914",
+    "main_image": "./images/dumbbell-snatch.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2671,7 +2671,7 @@
   },
   {
     "title": "Dumbbell Squat Clean and Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84915",
+    "main_image": "./images/dumbbell-squat-clean-and-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2688,7 +2688,7 @@
   },
   {
     "title": "Dumbbell Squat Thrusters / Squat to Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85228",
+    "main_image": "./images/dumbbell-squat-thrusters-squat-to-overhead-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2707,7 +2707,7 @@
   },
   {
     "title": "Dumbbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84916",
+    "main_image": "./images/dumbbell-squats.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2724,7 +2724,7 @@
   },
   {
     "title": "Dumbbell Step-Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84917",
+    "main_image": "./images/dumbbell-step-ups.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2740,7 +2740,7 @@
   },
   {
     "title": "Dumbbell Walking Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84919",
+    "main_image": "./images/dumbbell-walking-lunges.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -2758,7 +2758,7 @@
   },
   {
     "title": "Dumbbell Weighted Leg Pull-Ins",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84920",
+    "main_image": "./images/dumbbell-weighted-leg-pull-ins.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2772,7 +2772,7 @@
   },
   {
     "title": "Dynamic Clap Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84921",
+    "main_image": "./images/dynamic-clap-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2788,7 +2788,7 @@
   },
   {
     "title": "Elevated / Barbell Glute Bridges / Hip Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84922",
+    "main_image": "./images/elevated-barbell-glute-bridges-hip-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -2802,7 +2802,7 @@
   },
   {
     "title": "Explosive Jumping Alternating Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84924",
+    "main_image": "./images/explosive-jumping-alternating-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2819,7 +2819,7 @@
   },
   {
     "title": "External Cable Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84926",
+    "main_image": "./images/external-cable-shoulder-rotation.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -2833,7 +2833,7 @@
   },
   {
     "title": "External Rotation / Bodyweight Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86470",
+    "main_image": "./images/external-rotation-bodyweight-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2847,7 +2847,7 @@
   },
   {
     "title": "EZ-Bar Preacher Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84928",
+    "main_image": "./images/ez-bar-preacher-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -2861,7 +2861,7 @@
   },
   {
     "title": "Face Pull / Rear Delt Pull",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84929",
+    "main_image": "./images/face-pull-rear-delt-pull.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -2875,7 +2875,7 @@
   },
   {
     "title": "Farmer?s Walk / Carry",
-    "main_image": "No main image found",
+    "main_image": "./images/farmer-s-walk-carry.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -2895,7 +2895,7 @@
   },
   {
     "title": "Fire Hydrants / Abductor / Adductor Knee Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84931",
+    "main_image": "./images/fire-hydrants-abductor-adductor-knee-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2909,7 +2909,7 @@
   },
   {
     "title": "Flat Bench Barbell Skull Crushers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84932",
+    "main_image": "./images/flat-bench-barbell-skull-crushers.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -2923,7 +2923,7 @@
   },
   {
     "title": "Flat Bench Dumbbell Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84933",
+    "main_image": "./images/flat-bench-dumbbell-flyes.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -2939,7 +2939,7 @@
   },
   {
     "title": "Floor / Power Jumps / Knee to Jump Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85006",
+    "main_image": "./images/floor-power-jumps-knee-to-jump-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2955,7 +2955,7 @@
   },
   {
     "title": "Floor T Raises / Back Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84934",
+    "main_image": "./images/floor-t-raises-back-flyes.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2970,7 +2970,7 @@
   },
   {
     "title": "Flutter Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86149",
+    "main_image": "./images/flutter-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2984,7 +2984,7 @@
   },
   {
     "title": "Foam Roller Anterior Tibialis / Shin Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86158",
+    "main_image": "./images/foam-roller-anterior-tibialis-shin-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -2996,7 +2996,7 @@
   },
   {
     "title": "Foam Roller Calf / Calves Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84936",
+    "main_image": "./images/foam-roller-calf-calves-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3008,7 +3008,7 @@
   },
   {
     "title": "Foam Roller Chest Opener Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/foam-roller-chest-opener-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3020,7 +3020,7 @@
   },
   {
     "title": "Foam Roller Forearm Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86165",
+    "main_image": "./images/foam-roller-forearm-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3032,7 +3032,7 @@
   },
   {
     "title": "Foam Roller Glutes / Butt Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84939",
+    "main_image": "./images/foam-roller-glutes-butt-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3044,7 +3044,7 @@
   },
   {
     "title": "Foam Roller Hamstring Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84940",
+    "main_image": "./images/foam-roller-hamstring-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3056,7 +3056,7 @@
   },
   {
     "title": "Foam Roller Inner Thigh Adductor / Adduction Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/foam-roller-inner-thigh-adductor-adduction-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3068,7 +3068,7 @@
   },
   {
     "title": "Foam Roller Lat Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86172",
+    "main_image": "./images/foam-roller-lat-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3080,7 +3080,7 @@
   },
   {
     "title": "Foam Roller Lower Back Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84942",
+    "main_image": "./images/foam-roller-lower-back-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3092,7 +3092,7 @@
   },
   {
     "title": "Foam Roller Neck Release",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86179",
+    "main_image": "./images/foam-roller-neck-release.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3104,7 +3104,7 @@
   },
   {
     "title": "Foam Roller Outer Thighs Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84944",
+    "main_image": "./images/foam-roller-outer-thighs-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3118,7 +3118,7 @@
   },
   {
     "title": "Foam Roller Quadriceps Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84945",
+    "main_image": "./images/foam-roller-quadriceps-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3130,7 +3130,7 @@
   },
   {
     "title": "Foam Roller Upper Back Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84947",
+    "main_image": "./images/foam-roller-upper-back-stretch.svg",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3142,7 +3142,7 @@
   },
   {
     "title": "Forward / Front Shoulder Dumbbell Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84948",
+    "main_image": "./images/forward-front-shoulder-dumbbell-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -3156,7 +3156,7 @@
   },
   {
     "title": "Forward Leg Hip Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84949",
+    "main_image": "./images/forward-leg-hip-swings.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3170,7 +3170,7 @@
   },
   {
     "title": "Frog Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84950",
+    "main_image": "./images/frog-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3185,7 +3185,7 @@
   },
   {
     "title": "Front Barbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84953",
+    "main_image": "./images/front-barbell-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -3202,7 +3202,7 @@
   },
   {
     "title": "Front Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84952",
+    "main_image": "./images/front-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3219,7 +3219,7 @@
   },
   {
     "title": "Full Barbell Clean and Presses / Jerk / Overhead Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86000",
+    "main_image": "./images/full-barbell-clean-and-presses-jerk-overhead-presses.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -3236,7 +3236,7 @@
   },
   {
     "title": "Gluteus / Glute / Gluteal Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/gluteus-glute-gluteal-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3250,7 +3250,7 @@
   },
   {
     "title": "Goblet Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84956",
+    "main_image": "./images/goblet-squats.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -3269,7 +3269,7 @@
   },
   {
     "title": "Groiners",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84957",
+    "main_image": "./images/groiners.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3283,7 +3283,7 @@
   },
   {
     "title": "Gymnastic Ring Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86472",
+    "main_image": "./images/gymnastic-ring-dips.svg",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3299,7 +3299,7 @@
   },
   {
     "title": "Gymnastic Ring L-Holds",
-    "main_image": "No main image found",
+    "main_image": "./images/gymnastic-ring-l-holds.svg",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3314,7 +3314,7 @@
   },
   {
     "title": "Gymnastic Ring Pull-Ups / Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86474",
+    "main_image": "./images/gymnastic-ring-pull-ups-pullups.svg",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3331,7 +3331,7 @@
   },
   {
     "title": "Gymnastic Ring Support Position",
-    "main_image": "No main image found",
+    "main_image": "./images/gymnastic-ring-support-position.svg",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3348,7 +3348,7 @@
   },
   {
     "title": "Half Modified / One Leg Push Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84962",
+    "main_image": "./images/half-modified-one-leg-push-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3363,7 +3363,7 @@
   },
   {
     "title": "Hammer Strength Machine / Seated Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84964",
+    "main_image": "./images/hammer-strength-machine-seated-chest-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3379,7 +3379,7 @@
   },
   {
     "title": "Hamstring Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/hamstring-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3393,7 +3393,7 @@
   },
   {
     "title": "Handstand Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84966",
+    "main_image": "./images/handstand-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3407,7 +3407,7 @@
   },
   {
     "title": "Handstand Walks / Hand Walking",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84967",
+    "main_image": "./images/handstand-walks-hand-walking.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3422,7 +3422,7 @@
   },
   {
     "title": "Hanging Knee Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84968",
+    "main_image": "./images/hanging-knee-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3436,7 +3436,7 @@
   },
   {
     "title": "Hanging Leg Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84969",
+    "main_image": "./images/hanging-leg-raises.svg",
     "equipment_required": [
       "Full gym",
       "NO EQUIPMENT"
@@ -3452,7 +3452,7 @@
   },
   {
     "title": "Hanging Leg Raises to Bar",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84970",
+    "main_image": "./images/hanging-leg-raises-to-bar.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3467,7 +3467,7 @@
   },
   {
     "title": "Hanging Windshield Wipers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86476",
+    "main_image": "./images/hanging-windshield-wipers.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3482,7 +3482,7 @@
   },
   {
     "title": "Heel to Toe Walking / Steps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101806",
+    "main_image": "./images/heel-to-toe-walking-steps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3496,7 +3496,7 @@
   },
   {
     "title": "Hex / Trap Bar / Cage Deadlifts / Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84972",
+    "main_image": "./images/hex-trap-bar-cage-deadlifts-squats.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3512,7 +3512,7 @@
   },
   {
     "title": "High Box Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84973",
+    "main_image": "./images/high-box-jumps.svg",
     "equipment_required": [
       "Full gym",
       "NO EQUIPMENT"
@@ -3529,7 +3529,7 @@
   },
   {
     "title": "High Knees / Front Knee Lifts / Run / Jog on the Spot",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84974",
+    "main_image": "./images/high-knees-front-knee-lifts-run-jog-on-the-spot.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3543,7 +3543,7 @@
   },
   {
     "title": "Hindu / Judo Push-up / Dive Bombers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84886",
+    "main_image": "./images/hindu-judo-push-up-dive-bombers.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3560,7 +3560,7 @@
   },
   {
     "title": "Hindu Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84975",
+    "main_image": "./images/hindu-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3576,7 +3576,7 @@
   },
   {
     "title": "Hip Circles",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84976",
+    "main_image": "./images/hip-circles.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3590,7 +3590,7 @@
   },
   {
     "title": "Hip Raises / Butt Lift / Bridges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84977",
+    "main_image": "./images/hip-raises-butt-lift-bridges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3606,7 +3606,7 @@
   },
   {
     "title": "Hollow Body Rock Hold",
-    "main_image": "No main image found",
+    "main_image": "./images/hollow-body-rock-hold.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3618,7 +3618,7 @@
   },
   {
     "title": "Hops / Hopping",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85988",
+    "main_image": "./images/hops-hopping.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3633,7 +3633,7 @@
   },
   {
     "title": "Inchworms / Walkouts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84980",
+    "main_image": "./images/inchworms-walkouts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3653,7 +3653,7 @@
   },
   {
     "title": "Incline Barbell Bench Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84981",
+    "main_image": "./images/incline-barbell-bench-chest-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -3669,7 +3669,7 @@
   },
   {
     "title": "Incline Bench Dumbbell Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84983",
+    "main_image": "./images/incline-bench-dumbbell-flyes.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -3684,7 +3684,7 @@
   },
   {
     "title": "Incline Close-Grip / Bench Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84982",
+    "main_image": "./images/incline-close-grip-bench-presses.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -3699,7 +3699,7 @@
   },
   {
     "title": "Incline Dumbbell Bench Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86478",
+    "main_image": "./images/incline-dumbbell-bench-chest-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -3715,7 +3715,7 @@
   },
   {
     "title": "Incline Medicine Ball Push Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84985",
+    "main_image": "./images/incline-medicine-ball-push-ups.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -3730,7 +3730,7 @@
   },
   {
     "title": "Incline Plank Shoulder Taps / Planks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86480",
+    "main_image": "./images/incline-plank-shoulder-taps-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3745,7 +3745,7 @@
   },
   {
     "title": "Incline Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/incline-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3760,7 +3760,7 @@
   },
   {
     "title": "Incline Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84987",
+    "main_image": "./images/incline-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3776,7 +3776,7 @@
   },
   {
     "title": "Internal Cable Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84989",
+    "main_image": "./images/internal-cable-shoulder-rotation.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -3790,7 +3790,7 @@
   },
   {
     "title": "Internal Rotation / Bodyweight Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86482",
+    "main_image": "./images/internal-rotation-bodyweight-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3804,7 +3804,7 @@
   },
   {
     "title": "Inverted Rows / Reverse Pull-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86484",
+    "main_image": "./images/inverted-rows-reverse-pull-ups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -3821,7 +3821,7 @@
   },
   {
     "title": "Jackknife Sit-ups / Crunch / Toe Touches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84992",
+    "main_image": "./images/jackknife-sit-ups-crunch-toe-touches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3835,7 +3835,7 @@
   },
   {
     "title": "Jump Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84993",
+    "main_image": "./images/jump-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3852,7 +3852,7 @@
   },
   {
     "title": "Jumping Calf Presses / Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84994",
+    "main_image": "./images/jumping-calf-presses-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3864,7 +3864,7 @@
   },
   {
     "title": "Jumping Jacks / Star Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86191",
+    "main_image": "./images/jumping-jacks-star-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3882,7 +3882,7 @@
   },
   {
     "title": "Kettlebell Around the Worlds",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84995",
+    "main_image": "./images/kettlebell-around-the-worlds.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3897,7 +3897,7 @@
   },
   {
     "title": "Kettlebell Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86486",
+    "main_image": "./images/kettlebell-deadlifts.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3915,7 +3915,7 @@
   },
   {
     "title": "Kettlebell One-Legged Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84997",
+    "main_image": "./images/kettlebell-one-legged-deadlifts.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3931,7 +3931,7 @@
   },
   {
     "title": "Kettlebell Single / One Arm Clean and Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84998",
+    "main_image": "./images/kettlebell-single-one-arm-clean-and-press.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3945,7 +3945,7 @@
   },
   {
     "title": "Kettlebell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84999",
+    "main_image": "./images/kettlebell-squats.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3960,7 +3960,7 @@
   },
   {
     "title": "Kettlebell Thruster / Squat to Clean to Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85000",
+    "main_image": "./images/kettlebell-thruster-squat-to-clean-to-overhead-press.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3980,7 +3980,7 @@
   },
   {
     "title": "Kettlebell Windmills",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85001",
+    "main_image": "./images/kettlebell-windmills.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -3998,7 +3998,7 @@
   },
   {
     "title": "Knee Plank",
-    "main_image": "No main image found",
+    "main_image": "./images/knee-plank.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4013,7 +4013,7 @@
   },
   {
     "title": "Knee Planks / Reaches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86488",
+    "main_image": "./images/knee-planks-reaches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4028,7 +4028,7 @@
   },
   {
     "title": "Knee to Box Jump Squats / Power Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86199",
+    "main_image": "./images/knee-to-box-jump-squats-power-jumps.svg",
     "equipment_required": [
       "Plyo Box"
     ],
@@ -4044,7 +4044,7 @@
   },
   {
     "title": "Knee-to-Chest Lower Back Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/knee-to-chest-lower-back-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4056,7 +4056,7 @@
   },
   {
     "title": "Kneeling Cable Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85007",
+    "main_image": "./images/kneeling-cable-crunches.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -4070,7 +4070,7 @@
   },
   {
     "title": "Kneeling Hip Flexor Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85008",
+    "main_image": "./images/kneeling-hip-flexor-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4082,7 +4082,7 @@
   },
   {
     "title": "Kneeling Kettlebell Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85009",
+    "main_image": "./images/kneeling-kettlebell-press.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -4097,7 +4097,7 @@
   },
   {
     "title": "Kneeling Plank Scapula Push Ups / Planks Scaps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86490",
+    "main_image": "./images/kneeling-plank-scapula-push-ups-planks-scaps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4114,7 +4114,7 @@
   },
   {
     "title": "Kneeling T-Bar Presses / Landmine Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85013",
+    "main_image": "./images/kneeling-t-bar-presses-landmine-presses.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Full gym"
@@ -4130,7 +4130,7 @@
   },
   {
     "title": "Kneeling Wrist / Forearm Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/kneeling-wrist-forearm-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4143,7 +4143,7 @@
   },
   {
     "title": "L-Sit Pull Ups / Pull-Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85015",
+    "main_image": "./images/l-sit-pull-ups-pull-ups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4158,7 +4158,7 @@
   },
   {
     "title": "Landmine / T-Bar Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85016",
+    "main_image": "./images/landmine-t-bar-presses.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4173,7 +4173,7 @@
   },
   {
     "title": "Lateral / Side Shoulder Dumbbell Raises / Power Partials",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84906",
+    "main_image": "./images/lateral-side-shoulder-dumbbell-raises-power-partials.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4185,7 +4185,7 @@
   },
   {
     "title": "Lateral Lunges to Floor Touches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85017",
+    "main_image": "./images/lateral-lunges-to-floor-touches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4200,7 +4200,7 @@
   },
   {
     "title": "Lateral Raise Machine",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85018",
+    "main_image": "./images/lateral-raise-machine.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4212,7 +4212,7 @@
   },
   {
     "title": "Laying Dumbbell External Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86492",
+    "main_image": "./images/laying-dumbbell-external-shoulder-rotation.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4226,7 +4226,7 @@
   },
   {
     "title": "Laying Dumbbell Internal Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86494",
+    "main_image": "./images/laying-dumbbell-internal-shoulder-rotation.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4238,7 +4238,7 @@
   },
   {
     "title": "Laying External Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86496",
+    "main_image": "./images/laying-external-shoulder-rotation.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4252,7 +4252,7 @@
   },
   {
     "title": "Laying Heel Slides / Knee Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86498",
+    "main_image": "./images/laying-heel-slides-knee-bends.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4267,7 +4267,7 @@
   },
   {
     "title": "Laying Internal Shoulder Rotation",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86500",
+    "main_image": "./images/laying-internal-shoulder-rotation.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4279,7 +4279,7 @@
   },
   {
     "title": "Leg Press / Machine Squat Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86502",
+    "main_image": "./images/leg-press-machine-squat-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4295,7 +4295,7 @@
   },
   {
     "title": "Leg Press Machine Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84844",
+    "main_image": "./images/leg-press-machine-calf-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4309,7 +4309,7 @@
   },
   {
     "title": "Leg Presses / Machine Squat Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101497",
+    "main_image": "./images/leg-presses-machine-squat-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4324,7 +4324,7 @@
   },
   {
     "title": "Leg Pull-In Knee-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86206",
+    "main_image": "./images/leg-pull-in-knee-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4338,7 +4338,7 @@
   },
   {
     "title": "Long Jumps / Squat Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=97411",
+    "main_image": "./images/long-jumps-squat-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4354,7 +4354,7 @@
   },
   {
     "title": "Love Yourself Back Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95387",
+    "main_image": "./images/love-yourself-back-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4366,7 +4366,7 @@
   },
   {
     "title": "Low Upward Cable Pulley Crossover Chest Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85024",
+    "main_image": "./images/low-upward-cable-pulley-crossover-chest-flyes.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -4381,7 +4381,7 @@
   },
   {
     "title": "Lunge / Front Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85025",
+    "main_image": "./images/lunge-front-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4398,7 +4398,7 @@
   },
   {
     "title": "Lunge Punches / Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85026",
+    "main_image": "./images/lunge-punches-lunges.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4415,7 +4415,7 @@
   },
   {
     "title": "Lunge Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85027",
+    "main_image": "./images/lunge-twists.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4433,7 +4433,7 @@
   },
   {
     "title": "Lunging / Lunge with Bicep Hammer Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85028",
+    "main_image": "./images/lunging-lunge-with-bicep-hammer-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4451,7 +4451,7 @@
   },
   {
     "title": "Lying Crossover Leg Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86504",
+    "main_image": "./images/lying-crossover-leg-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4465,7 +4465,7 @@
   },
   {
     "title": "Lying Dumbbell Tricep Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85034",
+    "main_image": "./images/lying-dumbbell-tricep-extensions.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -4480,7 +4480,7 @@
   },
   {
     "title": "Lying Face Down Plate Neck Resistance",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85029",
+    "main_image": "./images/lying-face-down-plate-neck-resistance.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4492,7 +4492,7 @@
   },
   {
     "title": "Lying Leg Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85031",
+    "main_image": "./images/lying-leg-curls.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4506,7 +4506,7 @@
   },
   {
     "title": "Lying Leg Raises / Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85032",
+    "main_image": "./images/lying-leg-raises-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4520,7 +4520,7 @@
   },
   {
     "title": "Lying Side Leg Lifts / Lateral Raises / Hip Abductors / Adductors",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85337",
+    "main_image": "./images/lying-side-leg-lifts-lateral-raises-hip-abductors-adductors.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4532,7 +4532,7 @@
   },
   {
     "title": "Lying Single / One Leg Lifts / Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86506",
+    "main_image": "./images/lying-single-one-leg-lifts-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4546,7 +4546,7 @@
   },
   {
     "title": "Machine Assisted Pull-ups / Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86508",
+    "main_image": "./images/machine-assisted-pull-ups-pullups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4560,7 +4560,7 @@
   },
   {
     "title": "Machine Bicep Preacher / Concentration Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85036",
+    "main_image": "./images/machine-bicep-preacher-concentration-curls.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4574,7 +4574,7 @@
   },
   {
     "title": "Machine Hack Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85037",
+    "main_image": "./images/machine-hack-squats.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4591,7 +4591,7 @@
   },
   {
     "title": "Machine Seated Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85038",
+    "main_image": "./images/machine-seated-shoulder-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4607,7 +4607,7 @@
   },
   {
     "title": "Medicine Ball / Alternating Side Slams",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85045",
+    "main_image": "./images/medicine-ball-alternating-side-slams.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4625,7 +4625,7 @@
   },
   {
     "title": "Medicine Ball Chest Pass",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85039",
+    "main_image": "./images/medicine-ball-chest-pass.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4642,7 +4642,7 @@
   },
   {
     "title": "Medicine Ball Floor Press / Laying Chest Passes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86510",
+    "main_image": "./images/medicine-ball-floor-press-laying-chest-passes.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4656,7 +4656,7 @@
   },
   {
     "title": "Medicine Ball Punch Throws",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85041",
+    "main_image": "./images/medicine-ball-punch-throws.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4672,7 +4672,7 @@
   },
   {
     "title": "Medicine Ball Push-Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85042",
+    "main_image": "./images/medicine-ball-push-ups.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4688,7 +4688,7 @@
   },
   {
     "title": "Medicine Ball Rotational Passes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85044",
+    "main_image": "./images/medicine-ball-rotational-passes.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4705,7 +4705,7 @@
   },
   {
     "title": "Medicine Ball Slams",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85046",
+    "main_image": "./images/medicine-ball-slams.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4724,7 +4724,7 @@
   },
   {
     "title": "Medicine Ball Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85047",
+    "main_image": "./images/medicine-ball-swings.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4739,7 +4739,7 @@
   },
   {
     "title": "Medicine Ball Throw to Chase",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85048",
+    "main_image": "./images/medicine-ball-throw-to-chase.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -4755,7 +4755,7 @@
   },
   {
     "title": "Medicine Ball V-Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85049",
+    "main_image": "./images/medicine-ball-v-ups.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4769,7 +4769,7 @@
   },
   {
     "title": "Medicine Ball Wall Throw",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86512",
+    "main_image": "./images/medicine-ball-wall-throw.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4788,7 +4788,7 @@
   },
   {
     "title": "Medicine Ball Woodchops / Chops",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85050",
+    "main_image": "./images/medicine-ball-woodchops-chops.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -4802,7 +4802,7 @@
   },
   {
     "title": "Modified / Knee Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85053",
+    "main_image": "./images/modified-knee-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4818,7 +4818,7 @@
   },
   {
     "title": "Modified Bicycles / Elbow-to-Knee Crunches / Cross-body Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86214",
+    "main_image": "./images/modified-bicycles-elbow-to-knee-crunches-cross-body-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4832,7 +4832,7 @@
   },
   {
     "title": "Modified Crunches / Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85872",
+    "main_image": "./images/modified-crunches-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4844,7 +4844,7 @@
   },
   {
     "title": "Modified Plank Shoulder Taps / Planks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86221",
+    "main_image": "./images/modified-plank-shoulder-taps-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4858,7 +4858,7 @@
   },
   {
     "title": "Modified Side Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/modified-side-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4871,7 +4871,7 @@
   },
   {
     "title": "Monkey Bars / Climbing Frame",
-    "main_image": "No main image found",
+    "main_image": "./images/monkey-bars-climbing-frame.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4885,7 +4885,7 @@
   },
   {
     "title": "Mountain Climbers / Alternating Knee-ins",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86234",
+    "main_image": "./images/mountain-climbers-alternating-knee-ins.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4901,7 +4901,7 @@
   },
   {
     "title": "Muscle Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85055",
+    "main_image": "./images/muscle-ups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4919,7 +4919,7 @@
   },
   {
     "title": "Neck Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/neck-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4931,7 +4931,7 @@
   },
   {
     "title": "Negative Pull-Ups / Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86242",
+    "main_image": "./images/negative-pull-ups-pullups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4946,7 +4946,7 @@
   },
   {
     "title": "NuStep Machine / Recumbent Cross Trainer",
-    "main_image": "No main image found",
+    "main_image": "./images/nustep-machine-recumbent-cross-trainer.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -4961,7 +4961,7 @@
   },
   {
     "title": "One Arm Barbell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85063",
+    "main_image": "./images/one-arm-barbell-rows.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -4977,7 +4977,7 @@
   },
   {
     "title": "One Arm Kettlebell Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85062",
+    "main_image": "./images/one-arm-kettlebell-swings.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -4993,7 +4993,7 @@
   },
   {
     "title": "One Arm Side Push Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85066",
+    "main_image": "./images/one-arm-side-push-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5008,7 +5008,7 @@
   },
   {
     "title": "One-Arm Dumbbell Preacher Curl",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85064",
+    "main_image": "./images/one-arm-dumbbell-preacher-curl.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -5022,7 +5022,7 @@
   },
   {
     "title": "One-Arm Kettlebell Push and Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85059",
+    "main_image": "./images/one-arm-kettlebell-push-and-press.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -5041,7 +5041,7 @@
   },
   {
     "title": "One-Arm Kettlebell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85060",
+    "main_image": "./images/one-arm-kettlebell-rows.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -5057,7 +5057,7 @@
   },
   {
     "title": "One-Arm Kettlebell Snatch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85061",
+    "main_image": "./images/one-arm-kettlebell-snatch.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -5076,7 +5076,7 @@
   },
   {
     "title": "Open Scarecrows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86514",
+    "main_image": "./images/open-scarecrows.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5090,7 +5090,7 @@
   },
   {
     "title": "Overhead Cable Curl / Crucifix Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85070",
+    "main_image": "./images/overhead-cable-curl-crucifix-curls.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -5104,7 +5104,7 @@
   },
   {
     "title": "Overhead Dumbbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85071",
+    "main_image": "./images/overhead-dumbbell-squats.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -5120,7 +5120,7 @@
   },
   {
     "title": "Overhead Plate Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85072",
+    "main_image": "./images/overhead-plate-presses.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5135,7 +5135,7 @@
   },
   {
     "title": "Overhead Plate Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85073",
+    "main_image": "./images/overhead-plate-squats.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5151,7 +5151,7 @@
   },
   {
     "title": "Overhead Triceps Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/overhead-triceps-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5165,7 +5165,7 @@
   },
   {
     "title": "Overhead Water Bottle Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84825",
+    "main_image": "./images/overhead-water-bottle-squats.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -5184,7 +5184,7 @@
   },
   {
     "title": "Palloff Press / Oblique Iso Hold",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85075",
+    "main_image": "./images/palloff-press-oblique-iso-hold.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -5200,7 +5200,7 @@
   },
   {
     "title": "Partial / Half Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86516",
+    "main_image": "./images/partial-half-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5214,7 +5214,7 @@
   },
   {
     "title": "Pelvic Tilt With Marching",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86249",
+    "main_image": "./images/pelvic-tilt-with-marching.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5228,7 +5228,7 @@
   },
   {
     "title": "Piriformis Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/piriformis-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5242,7 +5242,7 @@
   },
   {
     "title": "Pistol / Single / One Leg Extended Arm Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85082",
+    "main_image": "./images/pistol-single-one-leg-extended-arm-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5259,7 +5259,7 @@
   },
   {
     "title": "Plank",
-    "main_image": "No main image found",
+    "main_image": "./images/plank.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5271,7 +5271,7 @@
   },
   {
     "title": "Plank Jacks / Extended Leg",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85083",
+    "main_image": "./images/plank-jacks-extended-leg.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5286,7 +5286,7 @@
   },
   {
     "title": "Plank Knee to Elbow",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85084",
+    "main_image": "./images/plank-knee-to-elbow.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5302,7 +5302,7 @@
   },
   {
     "title": "Plank Leg Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86263",
+    "main_image": "./images/plank-leg-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5316,7 +5316,7 @@
   },
   {
     "title": "Plank Rolls / Planks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85085",
+    "main_image": "./images/plank-rolls-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5328,7 +5328,7 @@
   },
   {
     "title": "Plank Scapula Push Ups / Planks Scaps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86518",
+    "main_image": "./images/plank-scapula-push-ups-planks-scaps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5345,7 +5345,7 @@
   },
   {
     "title": "Plank Shoulder Taps / Planks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85087",
+    "main_image": "./images/plank-shoulder-taps-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5359,7 +5359,7 @@
   },
   {
     "title": "Plank to Push-Up / Pushups / Walking Plank Up-Downs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85338",
+    "main_image": "./images/plank-to-push-up-pushups-walking-plank-up-downs.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5372,7 +5372,7 @@
   },
   {
     "title": "Planks / Reaches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86520",
+    "main_image": "./images/planks-reaches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5387,7 +5387,7 @@
   },
   {
     "title": "Plate Overhead Walking Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85090",
+    "main_image": "./images/plate-overhead-walking-lunges.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5407,7 +5407,7 @@
   },
   {
     "title": "Playground - Hopscotch",
-    "main_image": "No main image found",
+    "main_image": "./images/playground-hopscotch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5417,7 +5417,7 @@
   },
   {
     "title": "Playground - Monkey Bars",
-    "main_image": "No main image found",
+    "main_image": "./images/playground-monkey-bars.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -5425,7 +5425,7 @@
   },
   {
     "title": "Playground - Swing / Swings",
-    "main_image": "No main image found",
+    "main_image": "./images/playground-swing-swings.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -5433,7 +5433,7 @@
   },
   {
     "title": "Playground - Tag / It / Cops and Robbers",
-    "main_image": "No main image found",
+    "main_image": "./images/playground-tag-it-cops-and-robbers.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5443,7 +5443,7 @@
   },
   {
     "title": "Power Skips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85091",
+    "main_image": "./images/power-skips.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5460,7 +5460,7 @@
   },
   {
     "title": "Powerbag / Sandbag Good Mornings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85092",
+    "main_image": "./images/powerbag-sandbag-good-mornings.svg",
     "equipment_required": [
       "Powerbag / Sandbag"
     ],
@@ -5475,7 +5475,7 @@
   },
   {
     "title": "Powerbag / Sandbag Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85093",
+    "main_image": "./images/powerbag-sandbag-lunges.svg",
     "equipment_required": [
       "Powerbag / Sandbag"
     ],
@@ -5491,7 +5491,7 @@
   },
   {
     "title": "Powerbag / Sandbag Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86522",
+    "main_image": "./images/powerbag-sandbag-squats.svg",
     "equipment_required": [
       "Powerbag / Sandbag"
     ],
@@ -5507,7 +5507,7 @@
   },
   {
     "title": "Prone / Lying Knee Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86275",
+    "main_image": "./images/prone-lying-knee-bends.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5522,7 +5522,7 @@
   },
   {
     "title": "Prone / Lying Leg Lifts",
-    "main_image": "No main image found",
+    "main_image": "./images/prone-lying-leg-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5536,7 +5536,7 @@
   },
   {
     "title": "Prone / Lying Resistance Band Knee Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86281",
+    "main_image": "./images/prone-lying-resistance-band-knee-bends.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5551,7 +5551,7 @@
   },
   {
     "title": "Pull-ups / Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85099",
+    "main_image": "./images/pull-ups-pullups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5568,7 +5568,7 @@
   },
   {
     "title": "Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86287",
+    "main_image": "./images/push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5584,7 +5584,7 @@
   },
   {
     "title": "Rack Pulls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85102",
+    "main_image": "./images/rack-pulls.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5600,7 +5600,7 @@
   },
   {
     "title": "Ragdoll / Forward Bend / Fold Stretch / Toe Touches",
-    "main_image": "No main image found",
+    "main_image": "./images/ragdoll-forward-bend-fold-stretch-toe-touches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5615,7 +5615,7 @@
   },
   {
     "title": "Raised One-Legged / Leg Push Ups / Push-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85104",
+    "main_image": "./images/raised-one-legged-leg-push-ups-push-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5629,7 +5629,7 @@
   },
   {
     "title": "Rear Delt Machine Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85105",
+    "main_image": "./images/rear-delt-machine-flyes.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -5641,7 +5641,7 @@
   },
   {
     "title": "Renegade / Alternating Plank / Commando Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85106",
+    "main_image": "./images/renegade-alternating-plank-commando-rows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -5659,7 +5659,7 @@
   },
   {
     "title": "Resistance / Weighted Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85125",
+    "main_image": "./images/resistance-weighted-crunches.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells",
@@ -5673,7 +5673,7 @@
   },
   {
     "title": "Resistance Band Bent Over Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86524",
+    "main_image": "./images/resistance-band-bent-over-rows.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5688,7 +5688,7 @@
   },
   {
     "title": "Resistance Band Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85108",
+    "main_image": "./images/resistance-band-bicep-curls.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5702,7 +5702,7 @@
   },
   {
     "title": "Resistance Band Calf Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/resistance-band-calf-stretch.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5714,7 +5714,7 @@
   },
   {
     "title": "Resistance Band Chest Opener / Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86526",
+    "main_image": "./images/resistance-band-chest-opener-stretch.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5728,7 +5728,7 @@
   },
   {
     "title": "Resistance Band Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85110",
+    "main_image": "./images/resistance-band-chest-press.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5744,7 +5744,7 @@
   },
   {
     "title": "Resistance Band Clam Shells",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85122",
+    "main_image": "./images/resistance-band-clam-shells.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5756,7 +5756,7 @@
   },
   {
     "title": "Resistance Band Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85111",
+    "main_image": "./images/resistance-band-deadlifts.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5771,7 +5771,7 @@
   },
   {
     "title": "Resistance Band Dorsi Flexion",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86528",
+    "main_image": "./images/resistance-band-dorsi-flexion.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5785,7 +5785,7 @@
   },
   {
     "title": "Resistance Band Glute Bridges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85113",
+    "main_image": "./images/resistance-band-glute-bridges.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5800,7 +5800,7 @@
   },
   {
     "title": "Resistance Band Glute Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86530",
+    "main_image": "./images/resistance-band-glute-kickbacks.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5812,7 +5812,7 @@
   },
   {
     "title": "Resistance Band Lateral / Side Raises / Shoulder Abductions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85115",
+    "main_image": "./images/resistance-band-lateral-side-raises-shoulder-abductions.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5826,7 +5826,7 @@
   },
   {
     "title": "Resistance Band Lying Leg Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85116",
+    "main_image": "./images/resistance-band-lying-leg-extensions.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5841,7 +5841,7 @@
   },
   {
     "title": "Resistance Band Plantar Flexion / Ankle Pumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86532",
+    "main_image": "./images/resistance-band-plantar-flexion-ankle-pumps.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5855,7 +5855,7 @@
   },
   {
     "title": "Resistance Band Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85117",
+    "main_image": "./images/resistance-band-push-ups-pushups.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5871,7 +5871,7 @@
   },
   {
     "title": "Resistance Band Shoulder Front Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85112",
+    "main_image": "./images/resistance-band-shoulder-front-raises.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5883,7 +5883,7 @@
   },
   {
     "title": "Resistance Band Side Steps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85118",
+    "main_image": "./images/resistance-band-side-steps.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5899,7 +5899,7 @@
   },
   {
     "title": "Resistance Band Squat and Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85120",
+    "main_image": "./images/resistance-band-squat-and-overhead-press.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5917,7 +5917,7 @@
   },
   {
     "title": "Resistance Band Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85119",
+    "main_image": "./images/resistance-band-squats.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5933,7 +5933,7 @@
   },
   {
     "title": "Resistance Band Standing Shoulder Press / Overhead Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85121",
+    "main_image": "./images/resistance-band-standing-shoulder-press-overhead-press.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5947,7 +5947,7 @@
   },
   {
     "title": "Resistance Band Tricep Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85123",
+    "main_image": "./images/resistance-band-tricep-kickbacks.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5959,7 +5959,7 @@
   },
   {
     "title": "Resistance Band Tricep Overhead Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85124",
+    "main_image": "./images/resistance-band-tricep-overhead-extensions.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -5971,7 +5971,7 @@
   },
   {
     "title": "Reverse Bench Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85135",
+    "main_image": "./images/reverse-bench-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5986,7 +5986,7 @@
   },
   {
     "title": "Reverse Cable Flyes / Crossovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85133",
+    "main_image": "./images/reverse-cable-flyes-crossovers.svg",
     "equipment_required": [
       "Cable Station",
       "Full gym"
@@ -6001,7 +6001,7 @@
   },
   {
     "title": "Reverse Crunch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85126",
+    "main_image": "./images/reverse-crunch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6013,7 +6013,7 @@
   },
   {
     "title": "Reverse Dumbbell Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85127",
+    "main_image": "./images/reverse-dumbbell-lunges.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6029,7 +6029,7 @@
   },
   {
     "title": "Reverse Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86534",
+    "main_image": "./images/reverse-flyes.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6044,7 +6044,7 @@
   },
   {
     "title": "Reverse Grip Barbell Push ups / Press Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85134",
+    "main_image": "./images/reverse-grip-barbell-push-ups-press-ups.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -6060,7 +6060,7 @@
   },
   {
     "title": "Reverse Grip EZ Curl Bar Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86536",
+    "main_image": "./images/reverse-grip-ez-curl-bar-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -6074,7 +6074,7 @@
   },
   {
     "title": "Reverse Plank Kicks / Planks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85130",
+    "main_image": "./images/reverse-plank-kicks-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6089,7 +6089,7 @@
   },
   {
     "title": "Reverse Shoulder Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/reverse-shoulder-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6104,7 +6104,7 @@
   },
   {
     "title": "Reverse Triceps Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85132",
+    "main_image": "./images/reverse-triceps-bench-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -6120,7 +6120,7 @@
   },
   {
     "title": "Roman Chair / Hyperextension Bench Side Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85136",
+    "main_image": "./images/roman-chair-hyperextension-bench-side-bends.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6134,7 +6134,7 @@
   },
   {
     "title": "Romanian Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85137",
+    "main_image": "./images/romanian-deadlifts.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -6151,7 +6151,7 @@
   },
   {
     "title": "Rope Climb",
-    "main_image": "No main image found",
+    "main_image": "./images/rope-climb.svg",
     "equipment_required": [
       "Climbing Rope"
     ],
@@ -6166,7 +6166,7 @@
   },
   {
     "title": "Rope Jumping / Jump rope / Skipping",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85139",
+    "main_image": "./images/rope-jumping-jump-rope-skipping.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6183,7 +6183,7 @@
   },
   {
     "title": "Roundhouse / Side Kicks",
-    "main_image": "No main image found",
+    "main_image": "./images/roundhouse-side-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6197,7 +6197,7 @@
   },
   {
     "title": "Russian / Mason / V-Sit Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85141",
+    "main_image": "./images/russian-mason-v-sit-twists.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6211,7 +6211,7 @@
   },
   {
     "title": "Samson / Lunge Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/samson-lunge-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6229,7 +6229,7 @@
   },
   {
     "title": "Scapula / Scap Pulls / Pull ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85143",
+    "main_image": "./images/scapula-scap-pulls-pull-ups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6243,7 +6243,7 @@
   },
   {
     "title": "Scarecrows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85144",
+    "main_image": "./images/scarecrows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6258,7 +6258,7 @@
   },
   {
     "title": "Scorpion Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85145",
+    "main_image": "./images/scorpion-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6272,7 +6272,7 @@
   },
   {
     "title": "Seal Jacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85146",
+    "main_image": "./images/seal-jacks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6288,7 +6288,7 @@
   },
   {
     "title": "Seated / Chair Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86538",
+    "main_image": "./images/seated-chair-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6302,7 +6302,7 @@
   },
   {
     "title": "Seated Ab Contractions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95453",
+    "main_image": "./images/seated-ab-contractions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6314,7 +6314,7 @@
   },
   {
     "title": "Seated Alternating Incline Bench Dumbbell Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84744",
+    "main_image": "./images/seated-alternating-incline-bench-dumbbell-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6329,7 +6329,7 @@
   },
   {
     "title": "Seated Ankle Circles / Rotations / Rolls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104279",
+    "main_image": "./images/seated-ankle-circles-rotations-rolls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6343,7 +6343,7 @@
   },
   {
     "title": "Seated Ankle Stretches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104322",
+    "main_image": "./images/seated-ankle-stretches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6357,7 +6357,7 @@
   },
   {
     "title": "Seated Arnold Dumbbell Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85147",
+    "main_image": "./images/seated-arnold-dumbbell-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6373,7 +6373,7 @@
   },
   {
     "title": "Seated Barbell Military Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85148",
+    "main_image": "./images/seated-barbell-military-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -6389,7 +6389,7 @@
   },
   {
     "title": "Seated Bench Leg Pull-Ins / Flat Bench Knee-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84789",
+    "main_image": "./images/seated-bench-leg-pull-ins-flat-bench-knee-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6403,7 +6403,7 @@
   },
   {
     "title": "Seated Bent Over Rear Delt Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85167",
+    "main_image": "./images/seated-bent-over-rear-delt-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6418,7 +6418,7 @@
   },
   {
     "title": "Seated Cat Cow",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84856",
+    "main_image": "./images/seated-cat-cow.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6435,7 +6435,7 @@
   },
   {
     "title": "Seated Chair Knee / Leg Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104295",
+    "main_image": "./images/seated-chair-knee-leg-extensions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6450,7 +6450,7 @@
   },
   {
     "title": "Seated Chair Leg Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86540",
+    "main_image": "./images/seated-chair-leg-extensions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6462,7 +6462,7 @@
   },
   {
     "title": "Seated Cross Body Shoulder Stretches",
-    "main_image": "No main image found",
+    "main_image": "./images/seated-cross-body-shoulder-stretches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6476,7 +6476,7 @@
   },
   {
     "title": "Seated Cross Over Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95433",
+    "main_image": "./images/seated-cross-over-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6490,7 +6490,7 @@
   },
   {
     "title": "Seated Dual / Front Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85151",
+    "main_image": "./images/seated-dual-front-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6502,7 +6502,7 @@
   },
   {
     "title": "Seated Dumbbell / Chair Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86542",
+    "main_image": "./images/seated-dumbbell-chair-calf-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6516,7 +6516,7 @@
   },
   {
     "title": "Seated Dumbbell Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86544",
+    "main_image": "./images/seated-dumbbell-bicep-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6530,7 +6530,7 @@
   },
   {
     "title": "Seated Dumbbell Concentration Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84867",
+    "main_image": "./images/seated-dumbbell-concentration-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6544,7 +6544,7 @@
   },
   {
     "title": "Seated Dumbbell Palm-Down Wrist Curls / Forearm Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86546",
+    "main_image": "./images/seated-dumbbell-palm-down-wrist-curls-forearm-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6557,7 +6557,7 @@
   },
   {
     "title": "Seated Dumbbell Palm-Up Wrist Curls / Forearm Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86548",
+    "main_image": "./images/seated-dumbbell-palm-up-wrist-curls-forearm-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6570,7 +6570,7 @@
   },
   {
     "title": "Seated Dumbbell Wrist Rotations / Circles",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86550",
+    "main_image": "./images/seated-dumbbell-wrist-rotations-circles.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6584,7 +6584,7 @@
   },
   {
     "title": "Seated Extended Leg Raises / Flutter Kicks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86552",
+    "main_image": "./images/seated-extended-leg-raises-flutter-kicks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6598,7 +6598,7 @@
   },
   {
     "title": "Seated Hamstring Stretches",
-    "main_image": "No main image found",
+    "main_image": "./images/seated-hamstring-stretches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6612,7 +6612,7 @@
   },
   {
     "title": "Seated Hip Openers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95418",
+    "main_image": "./images/seated-hip-openers.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6626,7 +6626,7 @@
   },
   {
     "title": "Seated Jumping Jacks / Star Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101838",
+    "main_image": "./images/seated-jumping-jacks-star-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6640,7 +6640,7 @@
   },
   {
     "title": "Seated Knee / Leg Lifts / Elevations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86005",
+    "main_image": "./images/seated-knee-leg-lifts-elevations.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6654,7 +6654,7 @@
   },
   {
     "title": "Seated Knee Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86296",
+    "main_image": "./images/seated-knee-extensions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6668,7 +6668,7 @@
   },
   {
     "title": "Seated Knee to Elbows / Chair Cross Body Crunches / Bicycles",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101619",
+    "main_image": "./images/seated-knee-to-elbows-chair-cross-body-crunches-bicycles.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6683,7 +6683,7 @@
   },
   {
     "title": "Seated Lateral / Side Shoulder Dumbbell Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85159",
+    "main_image": "./images/seated-lateral-side-shoulder-dumbbell-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6697,7 +6697,7 @@
   },
   {
     "title": "Seated Lean Backs / Chair Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101600",
+    "main_image": "./images/seated-lean-backs-chair-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6712,7 +6712,7 @@
   },
   {
     "title": "Seated Leg Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85160",
+    "main_image": "./images/seated-leg-curls.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6726,7 +6726,7 @@
   },
   {
     "title": "Seated Low Cable Back Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85161",
+    "main_image": "./images/seated-low-cable-back-rows.svg",
     "equipment_required": [
       "Cable Station",
       "Full gym"
@@ -6743,7 +6743,7 @@
   },
   {
     "title": "Seated Lumbar Rotations / Chair Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85942",
+    "main_image": "./images/seated-lumbar-rotations-chair-twists.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6757,7 +6757,7 @@
   },
   {
     "title": "Seated Lumbar Rotations / Chair Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=94916",
+    "main_image": "./images/seated-lumbar-rotations-chair-twists.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6771,7 +6771,7 @@
   },
   {
     "title": "Seated Machine Back Row",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86554",
+    "main_image": "./images/seated-machine-back-row.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6786,7 +6786,7 @@
   },
   {
     "title": "Seated Machine Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85149",
+    "main_image": "./images/seated-machine-calf-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6798,7 +6798,7 @@
   },
   {
     "title": "Seated Machine Leg Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85164",
+    "main_image": "./images/seated-machine-leg-extensions.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -6810,7 +6810,7 @@
   },
   {
     "title": "Seated Neck Roll",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95402",
+    "main_image": "./images/seated-neck-roll.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6822,7 +6822,7 @@
   },
   {
     "title": "Seated Neck Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104251",
+    "main_image": "./images/seated-neck-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6834,7 +6834,7 @@
   },
   {
     "title": "Seated Neck Turns / Head Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85056",
+    "main_image": "./images/seated-neck-turns-head-rotations.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6846,7 +6846,7 @@
   },
   {
     "title": "Seated Palm-Down Wrist Curls / Forearm Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85165",
+    "main_image": "./images/seated-palm-down-wrist-curls-forearm-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Dumbbells"
@@ -6859,7 +6859,7 @@
   },
   {
     "title": "Seated Palm-Up Wrist Curls / Forearm Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85166",
+    "main_image": "./images/seated-palm-up-wrist-curls-forearm-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Dumbbells"
@@ -6872,7 +6872,7 @@
   },
   {
     "title": "Seated Prayer Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85993",
+    "main_image": "./images/seated-prayer-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6886,7 +6886,7 @@
   },
   {
     "title": "Seated Punches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85213",
+    "main_image": "./images/seated-punches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6901,7 +6901,7 @@
   },
   {
     "title": "Seated Resistance Band Leg / Hip Abduction",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101531",
+    "main_image": "./images/seated-resistance-band-leg-hip-abduction.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -6915,7 +6915,7 @@
   },
   {
     "title": "Seated Resistance Band Leg Curls / Flexions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101635",
+    "main_image": "./images/seated-resistance-band-leg-curls-flexions.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -6930,7 +6930,7 @@
   },
   {
     "title": "Seated Resistance Bands Leg Presses / Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101584",
+    "main_image": "./images/seated-resistance-bands-leg-presses-extensions.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -6946,7 +6946,7 @@
   },
   {
     "title": "Seated Resistance Knee Flexion",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86322",
+    "main_image": "./images/seated-resistance-knee-flexion.svg",
     "equipment_required": [
       "NO EQUIPMENT",
       "Resistance Bands"
@@ -6962,7 +6962,7 @@
   },
   {
     "title": "Seated Rest / Water Break",
-    "main_image": "No main image found",
+    "main_image": "./images/seated-rest-water-break.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6972,7 +6972,7 @@
   },
   {
     "title": "Seated Shoulder Hammer / Overhead Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85168",
+    "main_image": "./images/seated-shoulder-hammer-overhead-presses.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -6987,7 +6987,7 @@
   },
   {
     "title": "Seated Shoulder Rolls / Shrugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104223",
+    "main_image": "./images/seated-shoulder-rolls-shrugs.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7003,7 +7003,7 @@
   },
   {
     "title": "Seated Side / Chair Leans",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86328",
+    "main_image": "./images/seated-side-chair-leans.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7015,7 +7015,7 @@
   },
   {
     "title": "Seated Side Bends / Lat Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85879",
+    "main_image": "./images/seated-side-bends-lat-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7029,7 +7029,7 @@
   },
   {
     "title": "Seated Single / One Arm Overhead Dumbbell Tricep Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85170",
+    "main_image": "./images/seated-single-one-arm-overhead-dumbbell-tricep-extensions.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7042,7 +7042,7 @@
   },
   {
     "title": "Seated Single / One Leg Balance / Holds",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=104347",
+    "main_image": "./images/seated-single-one-leg-balance-holds.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7054,7 +7054,7 @@
   },
   {
     "title": "Seated Tricep Press / Overhead Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85171",
+    "main_image": "./images/seated-tricep-press-overhead-extensions.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7068,7 +7068,7 @@
   },
   {
     "title": "Seated Vacuum",
-    "main_image": "No main image found",
+    "main_image": "./images/seated-vacuum.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7080,7 +7080,7 @@
   },
   {
     "title": "Semi-Supine Laying Down / Constructive Rest Position",
-    "main_image": "No main image found",
+    "main_image": "./images/semi-supine-laying-down-constructive-rest-position.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7095,7 +7095,7 @@
   },
   {
     "title": "Semi-Tandem Standing / Stance Balance",
-    "main_image": "No main image found",
+    "main_image": "./images/semi-tandem-standing-stance-balance.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7109,7 +7109,7 @@
   },
   {
     "title": "Shadow Boxing",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85174",
+    "main_image": "./images/shadow-boxing.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7131,7 +7131,7 @@
   },
   {
     "title": "Shoulder Pole / Broomstick Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85176",
+    "main_image": "./images/shoulder-pole-broomstick-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7145,7 +7145,7 @@
   },
   {
     "title": "Shoulder Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/shoulder-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7159,7 +7159,7 @@
   },
   {
     "title": "Side / Lateral Medicine Ball Throw / Slam",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85183",
+    "main_image": "./images/side-lateral-medicine-ball-throw-slam.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -7178,7 +7178,7 @@
   },
   {
     "title": "Side / Lateral Shuffles / Hops / Skaters",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85214",
+    "main_image": "./images/side-lateral-shuffles-hops-skaters.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7194,7 +7194,7 @@
   },
   {
     "title": "Side / Oblique Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85179",
+    "main_image": "./images/side-oblique-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7206,7 +7206,7 @@
   },
   {
     "title": "Side Lateral Leg / Hip Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85180",
+    "main_image": "./images/side-lateral-leg-hip-swings.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7218,7 +7218,7 @@
   },
   {
     "title": "Side Lying Quadricep Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/side-lying-quadricep-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7230,7 +7230,7 @@
   },
   {
     "title": "Side Plank",
-    "main_image": "No main image found",
+    "main_image": "./images/side-plank.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7244,7 +7244,7 @@
   },
   {
     "title": "Side Plank Dumbbell Hip Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86336",
+    "main_image": "./images/side-plank-dumbbell-hip-raises.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7258,7 +7258,7 @@
   },
   {
     "title": "Side Plank Hip Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86343",
+    "main_image": "./images/side-plank-hip-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7272,7 +7272,7 @@
   },
   {
     "title": "Side Plank Leg Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85187",
+    "main_image": "./images/side-plank-leg-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7287,7 +7287,7 @@
   },
   {
     "title": "Side Plank Rotations / Elbow Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85188",
+    "main_image": "./images/side-plank-rotations-elbow-twists.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7300,7 +7300,7 @@
   },
   {
     "title": "Side to Side Jump Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85189",
+    "main_image": "./images/side-to-side-jump-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7315,7 +7315,7 @@
   },
   {
     "title": "Single / One Arm / Floor Glute Bridge Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85194",
+    "main_image": "./images/single-one-arm-floor-glute-bridge-press.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -7331,7 +7331,7 @@
   },
   {
     "title": "Single / One Arm Alternating Dumbbell / Chest / Flat Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85191",
+    "main_image": "./images/single-one-arm-alternating-dumbbell-chest-flat-bench-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7345,7 +7345,7 @@
   },
   {
     "title": "Single / One Arm Cable Lateral / Side Raises / Shoulder Abductions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85192",
+    "main_image": "./images/single-one-arm-cable-lateral-side-raises-shoulder-abductions.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -7357,7 +7357,7 @@
   },
   {
     "title": "Single / One Arm Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85210",
+    "main_image": "./images/single-one-arm-chest-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7373,7 +7373,7 @@
   },
   {
     "title": "Single / One Arm Dumbbell / Suitcase Carry",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85193",
+    "main_image": "./images/single-one-arm-dumbbell-suitcase-carry.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -7392,7 +7392,7 @@
   },
   {
     "title": "Single / One Arm Dumbbell Bench Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85065",
+    "main_image": "./images/single-one-arm-dumbbell-bench-rows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7409,7 +7409,7 @@
   },
   {
     "title": "Single / One Arm Front Water Bottle Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84951",
+    "main_image": "./images/single-one-arm-front-water-bottle-raises.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -7421,7 +7421,7 @@
   },
   {
     "title": "Single / One Arm Kneeling T-Bar / Landmine Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85195",
+    "main_image": "./images/single-one-arm-kneeling-t-bar-landmine-presses.svg",
     "equipment_required": [
       "Barbell / EZ-Bar",
       "Full gym"
@@ -7437,7 +7437,7 @@
   },
   {
     "title": "Single / One Arm Medicine Ball Push-Ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85043",
+    "main_image": "./images/single-one-arm-medicine-ball-push-ups-pushups.svg",
     "equipment_required": [
       "Medicine Ball"
     ],
@@ -7454,7 +7454,7 @@
   },
   {
     "title": "Single / One Arm Overhead Dumbbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85197",
+    "main_image": "./images/single-one-arm-overhead-dumbbell-squats.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7470,7 +7470,7 @@
   },
   {
     "title": "Single / One Arm Wall Push Ups / Push-Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85198",
+    "main_image": "./images/single-one-arm-wall-push-ups-push-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7484,7 +7484,7 @@
   },
   {
     "title": "Single / One Leg Balance / Holds",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101791",
+    "main_image": "./images/single-one-leg-balance-holds.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7498,7 +7498,7 @@
   },
   {
     "title": "Single / One Leg Bench Bodyweight Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86556",
+    "main_image": "./images/single-one-leg-bench-bodyweight-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7515,7 +7515,7 @@
   },
   {
     "title": "Single / One Leg Hip Raises / Glute Bridges / Hip Extensions with Leg Lift",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85203",
+    "main_image": "./images/single-one-leg-hip-raises-glute-bridges-hip-extensions-with-leg-lift.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7531,7 +7531,7 @@
   },
   {
     "title": "Single / One Leg Hops / Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85204",
+    "main_image": "./images/single-one-leg-hops-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7547,7 +7547,7 @@
   },
   {
     "title": "Single / One Straight Leg Dumbbell Deadlift",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85209",
+    "main_image": "./images/single-one-straight-leg-dumbbell-deadlift.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7563,7 +7563,7 @@
   },
   {
     "title": "Single Arm Front Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85200",
+    "main_image": "./images/single-arm-front-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7578,7 +7578,7 @@
   },
   {
     "title": "Single Arm Front Raises to Overhead Extension",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86355",
+    "main_image": "./images/single-arm-front-raises-to-overhead-extension.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7592,7 +7592,7 @@
   },
   {
     "title": "Single Arm Side / Lateral Raises / Shoulder Abductions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85208",
+    "main_image": "./images/single-arm-side-lateral-raises-shoulder-abductions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7607,7 +7607,7 @@
   },
   {
     "title": "Single Arm Side / Lateral Raises to Overhead Extension",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86362",
+    "main_image": "./images/single-arm-side-lateral-raises-to-overhead-extension.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7621,7 +7621,7 @@
   },
   {
     "title": "Single Dumbbell / One Arm Lateral Raises / Side Flyes / Shoulder Abductions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85196",
+    "main_image": "./images/single-dumbbell-one-arm-lateral-raises-side-flyes-shoulder-abductions.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -7633,7 +7633,7 @@
   },
   {
     "title": "Sissy Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85211",
+    "main_image": "./images/sissy-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7649,7 +7649,7 @@
   },
   {
     "title": "Sit-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86368",
+    "main_image": "./images/sit-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7661,7 +7661,7 @@
   },
   {
     "title": "Skipping / Jump Rope",
-    "main_image": "No main image found",
+    "main_image": "./images/skipping-jump-rope.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7669,7 +7669,7 @@
   },
   {
     "title": "Sled Pulls",
-    "main_image": "No main image found",
+    "main_image": "./images/sled-pulls.svg",
     "equipment_required": [
       "Sled"
     ],
@@ -7684,7 +7684,7 @@
   },
   {
     "title": "Sled Pushes",
-    "main_image": "No main image found",
+    "main_image": "./images/sled-pushes.svg",
     "equipment_required": [
       "Full gym",
       "Sled"
@@ -7703,7 +7703,7 @@
   },
   {
     "title": "Smith Machine Bench Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85217",
+    "main_image": "./images/smith-machine-bench-chest-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -7719,7 +7719,7 @@
   },
   {
     "title": "Smith Machine Leg Press / Reverse Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86558",
+    "main_image": "./images/smith-machine-leg-press-reverse-squats.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -7734,7 +7734,7 @@
   },
   {
     "title": "Smith Machine Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86560",
+    "main_image": "./images/smith-machine-shoulder-press.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -7746,7 +7746,7 @@
   },
   {
     "title": "Smith Machine Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85220",
+    "main_image": "./images/smith-machine-squats.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -7762,7 +7762,7 @@
   },
   {
     "title": "Snap Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85221",
+    "main_image": "./images/snap-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7780,7 +7780,7 @@
   },
   {
     "title": "Spiderman Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85222",
+    "main_image": "./images/spiderman-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7796,7 +7796,7 @@
   },
   {
     "title": "Spin / Push Up Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85100",
+    "main_image": "./images/spin-push-up-rotations.svg",
     "equipment_required": [],
     "muscles_worked_primary": [
       "Chest",
@@ -7810,7 +7810,7 @@
   },
   {
     "title": "Split Alternating Squat Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85223",
+    "main_image": "./images/split-alternating-squat-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7827,7 +7827,7 @@
   },
   {
     "title": "Sports - Baseball / Softball / Rounders",
-    "main_image": "No main image found",
+    "main_image": "./images/sports-baseball-softball-rounders.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7835,7 +7835,7 @@
   },
   {
     "title": "Sports - Frisbee",
-    "main_image": "No main image found",
+    "main_image": "./images/sports-frisbee.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7843,7 +7843,7 @@
   },
   {
     "title": "Sports - Hacky Sack / Footbag",
-    "main_image": "No main image found",
+    "main_image": "./images/sports-hacky-sack-footbag.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7853,7 +7853,7 @@
   },
   {
     "title": "Sports - Soccer / Football",
-    "main_image": "No main image found",
+    "main_image": "./images/sports-soccer-football.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7861,7 +7861,7 @@
   },
   {
     "title": "Sports - Tennis / Paddle / Racquetball",
-    "main_image": "No main image found",
+    "main_image": "./images/sports-tennis-paddle-racquetball.svg",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7869,7 +7869,7 @@
   },
   {
     "title": "Sprints",
-    "main_image": "No main image found",
+    "main_image": "./images/sprints.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7889,7 +7889,7 @@
   },
   {
     "title": "Squat Jacks / Side Sumo Walks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85227",
+    "main_image": "./images/squat-jacks-side-sumo-walks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7904,7 +7904,7 @@
   },
   {
     "title": "Squats to Side Leg Raises / Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86562",
+    "main_image": "./images/squats-to-side-leg-raises-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7919,7 +7919,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Ab Pike Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85274",
+    "main_image": "./images/stability-swiss-exercise-ball-ab-pike-press.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -7934,7 +7934,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Back Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85275",
+    "main_image": "./images/stability-swiss-exercise-ball-back-extensions.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -7946,7 +7946,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Bench Russian Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84790",
+    "main_image": "./images/stability-swiss-exercise-ball-bench-russian-twists.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -7959,7 +7959,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84923",
+    "main_image": "./images/stability-swiss-exercise-ball-bicep-curls.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -7974,7 +7974,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85276",
+    "main_image": "./images/stability-swiss-exercise-ball-crunches.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -7986,7 +7986,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Dumbbell Chest Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85233",
+    "main_image": "./images/stability-swiss-exercise-ball-dumbbell-chest-flyes.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8002,7 +8002,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Dumbbell Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86564",
+    "main_image": "./images/stability-swiss-exercise-ball-dumbbell-chest-press.svg",
     "equipment_required": [
       "Dumbbells",
       "Swiss / Exercise Ball"
@@ -8019,7 +8019,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Dumbbell Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85231",
+    "main_image": "./images/stability-swiss-exercise-ball-dumbbell-shoulder-press.svg",
     "equipment_required": [
       "Dumbbells",
       "Swiss / Exercise Ball"
@@ -8034,7 +8034,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Hamstring Leg Curl / Hip Raise / Bridge",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85279",
+    "main_image": "./images/stability-swiss-exercise-ball-hamstring-leg-curl-hip-raise-bridge.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8049,7 +8049,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Hand Off / V-Pass",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86566",
+    "main_image": "./images/stability-swiss-exercise-ball-hand-off-v-pass.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8063,7 +8063,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Knee Tuck to Chest",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85278",
+    "main_image": "./images/stability-swiss-exercise-ball-knee-tuck-to-chest.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8079,7 +8079,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Leg Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85280",
+    "main_image": "./images/stability-swiss-exercise-ball-leg-lifts.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8093,7 +8093,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Plank",
-    "main_image": "No main image found",
+    "main_image": "./images/stability-swiss-exercise-ball-plank.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8107,7 +8107,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Push Ups / Press Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85101",
+    "main_image": "./images/stability-swiss-exercise-ball-push-ups-press-ups.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8123,7 +8123,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Pushups / Push-ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85283",
+    "main_image": "./images/stability-swiss-exercise-ball-pushups-push-ups.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8139,7 +8139,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Reverse Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85281",
+    "main_image": "./images/stability-swiss-exercise-ball-reverse-crunches.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8154,7 +8154,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Rollout",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85284",
+    "main_image": "./images/stability-swiss-exercise-ball-rollout.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8169,7 +8169,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Single / One Leg Hips Raises / Leg Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85206",
+    "main_image": "./images/stability-swiss-exercise-ball-single-one-leg-hips-raises-leg-curls.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8181,7 +8181,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85234",
+    "main_image": "./images/stability-swiss-exercise-ball-squats.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8197,7 +8197,7 @@
   },
   {
     "title": "Stability / Swiss / Exercises Ball Dumbbell Preacher Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85232",
+    "main_image": "./images/stability-swiss-exercises-ball-dumbbell-preacher-curls.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8209,7 +8209,7 @@
   },
   {
     "title": "Staggered Hand Push-Ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85235",
+    "main_image": "./images/staggered-hand-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8225,7 +8225,7 @@
   },
   {
     "title": "Standing Adductor / Adduction Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-adductor-adduction-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8239,7 +8239,7 @@
   },
   {
     "title": "Standing Arm Circles",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84748",
+    "main_image": "./images/standing-arm-circles.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8253,7 +8253,7 @@
   },
   {
     "title": "Standing Arm Twists / Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86568",
+    "main_image": "./images/standing-arm-twists-rotations.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8267,7 +8267,7 @@
   },
   {
     "title": "Standing Band Side Leg Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86570",
+    "main_image": "./images/standing-band-side-leg-raises.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -8281,7 +8281,7 @@
   },
   {
     "title": "Standing Barbell Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85339",
+    "main_image": "./images/standing-barbell-calf-raises.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -8295,7 +8295,7 @@
   },
   {
     "title": "Standing Barbell Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85237",
+    "main_image": "./images/standing-barbell-shoulder-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -8310,7 +8310,7 @@
   },
   {
     "title": "Standing Bicep Cable Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84836",
+    "main_image": "./images/standing-bicep-cable-curls.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -8325,7 +8325,7 @@
   },
   {
     "title": "Standing Bicep Flexions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95328",
+    "main_image": "./images/standing-bicep-flexions.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8337,7 +8337,7 @@
   },
   {
     "title": "Standing Cable Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85238",
+    "main_image": "./images/standing-cable-chest-press.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -8353,7 +8353,7 @@
   },
   {
     "title": "Standing Cable Crossover Press / Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85239",
+    "main_image": "./images/standing-cable-crossover-press-flyes.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -8369,7 +8369,7 @@
   },
   {
     "title": "Standing Chair / Supported Hamstring Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86376",
+    "main_image": "./images/standing-chair-supported-hamstring-curls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8383,7 +8383,7 @@
   },
   {
     "title": "Standing Chair Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86572",
+    "main_image": "./images/standing-chair-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8397,7 +8397,7 @@
   },
   {
     "title": "Standing Chest Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95521",
+    "main_image": "./images/standing-chest-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8411,7 +8411,7 @@
   },
   {
     "title": "Standing Cross-body Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85243",
+    "main_image": "./images/standing-cross-body-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8427,7 +8427,7 @@
   },
   {
     "title": "Standing Dumbbell / Kettlebell Side Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84913",
+    "main_image": "./images/standing-dumbbell-kettlebell-side-bends.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -8442,7 +8442,7 @@
   },
   {
     "title": "Standing Dumbbell Arm Twists / Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86574",
+    "main_image": "./images/standing-dumbbell-arm-twists-rotations.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8456,7 +8456,7 @@
   },
   {
     "title": "Standing Dumbbell Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85245",
+    "main_image": "./images/standing-dumbbell-bicep-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8471,7 +8471,7 @@
   },
   {
     "title": "Standing Dumbbell Bicep Hammer Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84963",
+    "main_image": "./images/standing-dumbbell-bicep-hammer-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8485,7 +8485,7 @@
   },
   {
     "title": "Standing Dumbbell Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85244",
+    "main_image": "./images/standing-dumbbell-calf-raises.svg",
     "equipment_required": [
       "Dumbbells",
       "NO EQUIPMENT"
@@ -8498,7 +8498,7 @@
   },
   {
     "title": "Standing Dumbbell Overhead Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85250",
+    "main_image": "./images/standing-dumbbell-overhead-shoulder-press.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8514,7 +8514,7 @@
   },
   {
     "title": "Standing Forward Hip Hinges / Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101468",
+    "main_image": "./images/standing-forward-hip-hinges-bends.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8529,7 +8529,7 @@
   },
   {
     "title": "Standing Front Shoulder Plate / Dumbbell / Kettlebell Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85252",
+    "main_image": "./images/standing-front-shoulder-plate-dumbbell-kettlebell-raises.svg",
     "equipment_required": [
       "Dumbbells",
       "Full gym",
@@ -8546,7 +8546,7 @@
   },
   {
     "title": "Standing Hamstring Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-hamstring-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8560,7 +8560,7 @@
   },
   {
     "title": "Standing Hip Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95505",
+    "main_image": "./images/standing-hip-rotations.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8575,7 +8575,7 @@
   },
   {
     "title": "Standing Knee Hugs",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-knee-hugs.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8591,7 +8591,7 @@
   },
   {
     "title": "Standing Lateral Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95488",
+    "main_image": "./images/standing-lateral-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8605,7 +8605,7 @@
   },
   {
     "title": "Standing Leg / Hamstring Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85248",
+    "main_image": "./images/standing-leg-hamstring-curls.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -8619,7 +8619,7 @@
   },
   {
     "title": "Standing Long Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85259",
+    "main_image": "./images/standing-long-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8636,7 +8636,7 @@
   },
   {
     "title": "Standing Overhead Barbell Triceps Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85068",
+    "main_image": "./images/standing-overhead-barbell-triceps-extensions.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -8651,7 +8651,7 @@
   },
   {
     "title": "Standing Overhead Military Barbell Shoulder Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85249",
+    "main_image": "./images/standing-overhead-military-barbell-shoulder-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -8665,7 +8665,7 @@
   },
   {
     "title": "Standing Palm-Down Wrist Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-palm-down-wrist-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8678,7 +8678,7 @@
   },
   {
     "title": "Standing Palm-Up Wrist Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-palm-up-wrist-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8691,7 +8691,7 @@
   },
   {
     "title": "Standing Quadricep Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-quadricep-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8705,7 +8705,7 @@
   },
   {
     "title": "Standing Quadricep Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-quadricep-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8719,7 +8719,7 @@
   },
   {
     "title": "Standing Resistance Band Chest Pulls / Chest Openers / Back Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101514",
+    "main_image": "./images/standing-resistance-band-chest-pulls-chest-openers-back-flyes.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -8734,7 +8734,7 @@
   },
   {
     "title": "Standing Rest / Water Break",
-    "main_image": "No main image found",
+    "main_image": "./images/standing-rest-water-break.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8744,7 +8744,7 @@
   },
   {
     "title": "Standing Reverse Barbell Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85255",
+    "main_image": "./images/standing-reverse-barbell-curls.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -8758,7 +8758,7 @@
   },
   {
     "title": "Standing Shoulder Rolls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=94923",
+    "main_image": "./images/standing-shoulder-rolls.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8772,7 +8772,7 @@
   },
   {
     "title": "Standing Shoulder Rolls / Shrugs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86576",
+    "main_image": "./images/standing-shoulder-rolls-shrugs.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8788,7 +8788,7 @@
   },
   {
     "title": "Standing Side Leans / Reaches / Bends",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101772",
+    "main_image": "./images/standing-side-leans-reaches-bends.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8803,7 +8803,7 @@
   },
   {
     "title": "Standing Side Leg Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86578",
+    "main_image": "./images/standing-side-leg-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8817,7 +8817,7 @@
   },
   {
     "title": "Standing Single / One Leg Chair Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86580",
+    "main_image": "./images/standing-single-one-leg-chair-calf-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8831,7 +8831,7 @@
   },
   {
     "title": "Standing Single / One Leg Circles",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86582",
+    "main_image": "./images/standing-single-one-leg-circles.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8843,7 +8843,7 @@
   },
   {
     "title": "Standing Smith Calf Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86397",
+    "main_image": "./images/standing-smith-calf-raises.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -8855,7 +8855,7 @@
   },
   {
     "title": "Standing Supported Resistance Band Hamstring Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86404",
+    "main_image": "./images/standing-supported-resistance-band-hamstring-curls.svg",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -8869,7 +8869,7 @@
   },
   {
     "title": "Standing Tricep Stretch",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=95469",
+    "main_image": "./images/standing-tricep-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8881,7 +8881,7 @@
   },
   {
     "title": "Standing Two-Armed Bent Over Dumbbell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85313",
+    "main_image": "./images/standing-two-armed-bent-over-dumbbell-rows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8896,7 +8896,7 @@
   },
   {
     "title": "Standing Water Bottle Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84821",
+    "main_image": "./images/standing-water-bottle-bicep-curls.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -8910,7 +8910,7 @@
   },
   {
     "title": "Star Jumps / Jumping Jacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=97432",
+    "main_image": "./images/star-jumps-jumping-jacks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8924,7 +8924,7 @@
   },
   {
     "title": "Star Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/star-planks.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8936,7 +8936,7 @@
   },
   {
     "title": "Static Bicep Curls",
-    "main_image": "No main image found",
+    "main_image": "./images/static-bicep-curls.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8950,7 +8950,7 @@
   },
   {
     "title": "Static Push-up / Pushup Hold",
-    "main_image": "No main image found",
+    "main_image": "./images/static-push-up-pushup-hold.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8967,7 +8967,7 @@
   },
   {
     "title": "Static Squat Hold",
-    "main_image": "No main image found",
+    "main_image": "./images/static-squat-hold.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8983,7 +8983,7 @@
   },
   {
     "title": "Step Up with Knee Raises",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85264",
+    "main_image": "./images/step-up-with-knee-raises.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8999,7 +8999,7 @@
   },
   {
     "title": "Stiff Legged Barbell Deadlifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85265",
+    "main_image": "./images/stiff-legged-barbell-deadlifts.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -9015,7 +9015,7 @@
   },
   {
     "title": "Straight Arm Pulldowns / Pull Downs / Pullovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85267",
+    "main_image": "./images/straight-arm-pulldowns-pull-downs-pullovers.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -9029,7 +9029,7 @@
   },
   {
     "title": "Straight-Leg Calf Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/straight-leg-calf-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9041,7 +9041,7 @@
   },
   {
     "title": "Sumo / Plié Dumbbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85080",
+    "main_image": "./images/sumo-pli-dumbbell-squats.svg",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -9059,7 +9059,7 @@
   },
   {
     "title": "Sumo Barbell Deadlift",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85268",
+    "main_image": "./images/sumo-barbell-deadlift.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -9077,7 +9077,7 @@
   },
   {
     "title": "Supermans / Extended Arms & Legs Lifts",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85269",
+    "main_image": "./images/supermans-extended-arms-legs-lifts.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9091,7 +9091,7 @@
   },
   {
     "title": "Supine Lying Down Position / Corpse Pose",
-    "main_image": "No main image found",
+    "main_image": "./images/supine-lying-down-position-corpse-pose.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9106,7 +9106,7 @@
   },
   {
     "title": "Surrenders",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85271",
+    "main_image": "./images/surrenders.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9122,7 +9122,7 @@
   },
   {
     "title": "Swiss Ball Squeezes",
-    "main_image": "No main image found",
+    "main_image": "./images/swiss-ball-squeezes.svg",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -9134,7 +9134,7 @@
   },
   {
     "title": "Tandem Standing / Stance Balance",
-    "main_image": "No main image found",
+    "main_image": "./images/tandem-standing-stance-balance.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9148,7 +9148,7 @@
   },
   {
     "title": "Toe Reaches / Crunches",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85305",
+    "main_image": "./images/toe-reaches-crunches.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9160,7 +9160,7 @@
   },
   {
     "title": "Toe Taps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85306",
+    "main_image": "./images/toe-taps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9177,7 +9177,7 @@
   },
   {
     "title": "Tricep Cable Rope Push /Pull Downs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86584",
+    "main_image": "./images/tricep-cable-rope-push-pull-downs.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -9192,7 +9192,7 @@
   },
   {
     "title": "Tricep Dumbbell Kickbacks",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86586",
+    "main_image": "./images/tricep-dumbbell-kickbacks.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -9207,7 +9207,7 @@
   },
   {
     "title": "Triceps Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84885",
+    "main_image": "./images/triceps-dips.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9223,7 +9223,7 @@
   },
   {
     "title": "TRX Suspension Strap Bicep Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85340",
+    "main_image": "./images/trx-suspension-strap-bicep-curls.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9238,7 +9238,7 @@
   },
   {
     "title": "TRX Suspension Strap Hamstring / Leg Curls",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85298",
+    "main_image": "./images/trx-suspension-strap-hamstring-leg-curls.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9255,7 +9255,7 @@
   },
   {
     "title": "TRX Suspension Strap Mountain Climbers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85299",
+    "main_image": "./images/trx-suspension-strap-mountain-climbers.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9271,7 +9271,7 @@
   },
   {
     "title": "TRX Suspension Strap Pistol / Single / One Leg Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85290",
+    "main_image": "./images/trx-suspension-strap-pistol-single-one-leg-squats.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9286,7 +9286,7 @@
   },
   {
     "title": "TRX Suspension Strap Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/trx-suspension-strap-planks.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9303,7 +9303,7 @@
   },
   {
     "title": "TRX Suspension Strap Pull Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85292",
+    "main_image": "./images/trx-suspension-strap-pull-ups.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9317,7 +9317,7 @@
   },
   {
     "title": "TRX Suspension Strap Reverse Lunges / Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85293",
+    "main_image": "./images/trx-suspension-strap-reverse-lunges-lunges.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9332,7 +9332,7 @@
   },
   {
     "title": "TRX Suspension Strap Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86588",
+    "main_image": "./images/trx-suspension-strap-rows.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9348,7 +9348,7 @@
   },
   {
     "title": "TRX Suspension Strap Side Planks",
-    "main_image": "No main image found",
+    "main_image": "./images/trx-suspension-strap-side-planks.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9363,7 +9363,7 @@
   },
   {
     "title": "TRX Suspension Strap Standing Ab Rollout",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85258",
+    "main_image": "./images/trx-suspension-strap-standing-ab-rollout.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9378,7 +9378,7 @@
   },
   {
     "title": "TRX Suspension Strap T Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85301",
+    "main_image": "./images/trx-suspension-strap-t-flyes.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9393,7 +9393,7 @@
   },
   {
     "title": "TRX Suspension Straps Atomic Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85286",
+    "main_image": "./images/trx-suspension-straps-atomic-push-ups-pushups.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9409,7 +9409,7 @@
   },
   {
     "title": "TRX Suspension Straps Chest Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85303",
+    "main_image": "./images/trx-suspension-straps-chest-press.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9425,7 +9425,7 @@
   },
   {
     "title": "TRX Suspension Straps Deltoid Y Flyes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85287",
+    "main_image": "./images/trx-suspension-straps-deltoid-y-flyes.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9439,7 +9439,7 @@
   },
   {
     "title": "TRX Suspension Straps Glute Bridge",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85288",
+    "main_image": "./images/trx-suspension-straps-glute-bridge.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9453,7 +9453,7 @@
   },
   {
     "title": "TRX Suspension Straps Overhead Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85289",
+    "main_image": "./images/trx-suspension-straps-overhead-squats.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9470,7 +9470,7 @@
   },
   {
     "title": "TRX Suspension Straps Saw Pikes",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85294",
+    "main_image": "./images/trx-suspension-straps-saw-pikes.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9485,7 +9485,7 @@
   },
   {
     "title": "TRX Suspension Straps Side Step / Lateral Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86590",
+    "main_image": "./images/trx-suspension-straps-side-step-lateral-lunges.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9500,7 +9500,7 @@
   },
   {
     "title": "TRX Suspension Straps Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85300",
+    "main_image": "./images/trx-suspension-straps-squats.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9517,7 +9517,7 @@
   },
   {
     "title": "TRX Suspension Straps Suspended Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85297",
+    "main_image": "./images/trx-suspension-straps-suspended-lunges.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9532,7 +9532,7 @@
   },
   {
     "title": "TRX Suspension Straps Tricep Extensions",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85302",
+    "main_image": "./images/trx-suspension-straps-tricep-extensions.svg",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9547,7 +9547,7 @@
   },
   {
     "title": "Tuck Jumps",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85309",
+    "main_image": "./images/tuck-jumps.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9564,7 +9564,7 @@
   },
   {
     "title": "Turkish Get Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85310",
+    "main_image": "./images/turkish-get-ups.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -9589,7 +9589,7 @@
   },
   {
     "title": "Two-Arm Kettlebell Squat Swings",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85311",
+    "main_image": "./images/two-arm-kettlebell-squat-swings.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -9608,7 +9608,7 @@
   },
   {
     "title": "Underhand Grip / Chin-Ups / Pull-Ups /Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86018",
+    "main_image": "./images/underhand-grip-chin-ups-pull-ups-pullups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -9622,7 +9622,7 @@
   },
   {
     "title": "Underhand Grip Barbell Bench Press",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85314",
+    "main_image": "./images/underhand-grip-barbell-bench-press.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -9639,7 +9639,7 @@
   },
   {
     "title": "Upper Body Ergometers / Bike / UBE",
-    "main_image": "No main image found",
+    "main_image": "./images/upper-body-ergometers-bike-ube.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -9654,7 +9654,7 @@
   },
   {
     "title": "Upright Barbell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84778",
+    "main_image": "./images/upright-barbell-rows.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -9669,7 +9669,7 @@
   },
   {
     "title": "Upright Dumbbell Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84918",
+    "main_image": "./images/upright-dumbbell-rows.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -9686,7 +9686,7 @@
   },
   {
     "title": "Upright Kettlebell Front Rows",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85316",
+    "main_image": "./images/upright-kettlebell-front-rows.svg",
     "equipment_required": [
       "Kettlebells"
     ],
@@ -9701,7 +9701,7 @@
   },
   {
     "title": "Upward Cable Wood Chops",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85334",
+    "main_image": "./images/upward-cable-wood-chops.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -9716,7 +9716,7 @@
   },
   {
     "title": "V-Bar / Triangle Bar Lat Pulldowns / Pull Downs / Pullovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85317",
+    "main_image": "./images/v-bar-triangle-bar-lat-pulldowns-pull-downs-pullovers.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -9730,7 +9730,7 @@
   },
   {
     "title": "Walking High Kicks / Soldier March",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85318",
+    "main_image": "./images/walking-high-kicks-soldier-march.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9747,7 +9747,7 @@
   },
   {
     "title": "Walking on the Spot",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=101822",
+    "main_image": "./images/walking-on-the-spot.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9762,7 +9762,7 @@
   },
   {
     "title": "Wall Angels",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85319",
+    "main_image": "./images/wall-angels.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9778,7 +9778,7 @@
   },
   {
     "title": "Wall Partial / Half Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86416",
+    "main_image": "./images/wall-partial-half-squats.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9793,7 +9793,7 @@
   },
   {
     "title": "Wall Push-Ups / Pushups / Standing Press Ups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85321",
+    "main_image": "./images/wall-push-ups-pushups-standing-press-ups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9808,7 +9808,7 @@
   },
   {
     "title": "Wall Sit / Squats / Chair",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85322",
+    "main_image": "./images/wall-sit-squats-chair.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9825,7 +9825,7 @@
   },
   {
     "title": "Water Bottle Floor Chest Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84823",
+    "main_image": "./images/water-bottle-floor-chest-presses.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9839,7 +9839,7 @@
   },
   {
     "title": "Water Bottle Lunges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84824",
+    "main_image": "./images/water-bottle-lunges.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9854,7 +9854,7 @@
   },
   {
     "title": "Water Bottle Overhead Shoulder Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85069",
+    "main_image": "./images/water-bottle-overhead-shoulder-presses.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9869,7 +9869,7 @@
   },
   {
     "title": "Water Bottle Single / One Arm Tricep Kickbacks/Kick Backs",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84828",
+    "main_image": "./images/water-bottle-single-one-arm-tricep-kickbacks-kick-backs.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9883,7 +9883,7 @@
   },
   {
     "title": "Water Bottle Squat Clean and Presses",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84822",
+    "main_image": "./images/water-bottle-squat-clean-and-presses.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9900,7 +9900,7 @@
   },
   {
     "title": "Water Bottle Squat Thrusters",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84827",
+    "main_image": "./images/water-bottle-squat-thrusters.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9917,7 +9917,7 @@
   },
   {
     "title": "Water Bottle Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=84826",
+    "main_image": "./images/water-bottle-squats.svg",
     "equipment_required": [
       "Water Bottles"
     ],
@@ -9932,7 +9932,7 @@
   },
   {
     "title": "Weighted Bench Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85323",
+    "main_image": "./images/weighted-bench-dips.svg",
     "equipment_required": [
       "Full gym",
       "NO EQUIPMENT"
@@ -9949,7 +9949,7 @@
   },
   {
     "title": "Weighted Cossack Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86011",
+    "main_image": "./images/weighted-cossack-squats.svg",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -9964,7 +9964,7 @@
   },
   {
     "title": "Weighted Glute Bridges",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85325",
+    "main_image": "./images/weighted-glute-bridges.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -9979,7 +9979,7 @@
   },
   {
     "title": "Weighted Pull-Ups / Pullups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85326",
+    "main_image": "./images/weighted-pull-ups-pullups.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -9993,7 +9993,7 @@
   },
   {
     "title": "Weighted Russian / Mason Twists",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85328",
+    "main_image": "./images/weighted-russian-mason-twists.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10010,7 +10010,7 @@
   },
   {
     "title": "Weighted Tricep Dips",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86592",
+    "main_image": "./images/weighted-tricep-dips.svg",
     "equipment_required": [
       "Full gym"
     ],
@@ -10022,7 +10022,7 @@
   },
   {
     "title": "Wide Arm Chest Stretch / Reverse Butterfly Stretch",
-    "main_image": "No main image found",
+    "main_image": "./images/wide-arm-chest-stretch-reverse-butterfly-stretch.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10036,7 +10036,7 @@
   },
   {
     "title": "Wide Push-ups / Pushups",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85330",
+    "main_image": "./images/wide-push-ups-pushups.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10052,7 +10052,7 @@
   },
   {
     "title": "Wide Stance / Sumo Barbell Squats",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85331",
+    "main_image": "./images/wide-stance-sumo-barbell-squats.svg",
     "equipment_required": [
       "Barbell / EZ-Bar"
     ],
@@ -10069,7 +10069,7 @@
   },
   {
     "title": "Wide-Grip Lat Pulldowns / Pull Downs / Pullovers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85329",
+    "main_image": "./images/wide-grip-lat-pulldowns-pull-downs-pullovers.svg",
     "equipment_required": [
       "Cable Station"
     ],
@@ -10085,7 +10085,7 @@
   },
   {
     "title": "Windshield Wipers",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=85333",
+    "main_image": "./images/windshield-wipers.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10098,7 +10098,7 @@
   },
   {
     "title": "Wrist Circles / Rotations",
-    "main_image": "https://workoutlabs.com/train/svg.php?id=86594",
+    "main_image": "./images/wrist-circles-rotations.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10111,7 +10111,7 @@
   },
   {
     "title": "Your exercise (placeholder)",
-    "main_image": "No main image found",
+    "main_image": "./images/your-exercise-placeholder.svg",
     "equipment_required": [
       "NO EQUIPMENT"
     ],

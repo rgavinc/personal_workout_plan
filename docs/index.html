@@ -118,7 +118,7 @@
               <strong>Primary muscles:</strong> ${primary}<br />
               <strong>Secondary muscles:</strong> ${secondary}
             </div>
-            ${image ? `<img src="${image}" alt="${title}" />` : ""}
+            ${image ? `<img src="${image}" alt="${title}" loading="lazy" onerror="this.style.display='none'; this.parentElement.insertAdjacentHTML('beforeend', '<p class=\"muted\">Image unavailable</p>');" />` : ""}
             <p>${description}</p>
           `;
 
