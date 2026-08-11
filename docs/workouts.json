@@ -57,7 +57,7 @@
   },
   {
     "title": "Agility Ladder Drills",
-    "main_image": "./images/agility-ladder-drills.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Agility Ladder"
     ],
@@ -684,7 +684,7 @@
   },
   {
     "title": "Battle Bilateral Waves",
-    "main_image": "./images/battle-bilateral-waves.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Battle Rope"
     ],
@@ -829,25 +829,6 @@
       "Quadriceps"
     ],
     "description": "How to Do Bear Crawls Come to the ground, placing your knees below your hips and your hands below your shoulders. Elevate your hips up, extending your legs and arms. Keep the head in a neutral position. Move the right hand forward as you simultaneously move the left foot forward. Afterwards, move the left hand and right foot forward. Continue in this back and forth pattern, always moving the opposite hand and foot. Remember to brace the core throughout the movement."
-  },
-  {
-    "title": "Bear Crawls",
-    "main_image": "./images/bear-crawls.svg",
-    "equipment_required": [
-      "NO EQUIPMENT"
-    ],
-    "muscles_worked_primary": [
-      "Abs",
-      "Chest"
-    ],
-    "muscles_worked_secondary": [
-      "Calves",
-      "Forearms",
-      "Hamstrings",
-      "Lower Back",
-      "Shoulders"
-    ],
-    "description": "How to Do Bear Crawls Get down as if you’re ready to do a push-up! Then, move your right hand forward and at the same time, step forward with your left leg. Repeat the same with the opposite side, so that you crawl forward, just like a bear. Throw in the occasional growl, but remember, now is not the time for hibernation."
   },
   {
     "title": "Behind Back Standing Resistance Band Chest Presses",
@@ -1266,7 +1247,7 @@
   },
   {
     "title": "Bosu Ball Plank",
-    "main_image": "./images/bosu-ball-plank.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1329,7 +1310,7 @@
   },
   {
     "title": "Bosu Ball Side Planks",
-    "main_image": "./images/bosu-ball-side-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1392,7 +1373,7 @@
   },
   {
     "title": "Bosu Ball Static Balance",
-    "main_image": "./images/bosu-ball-static-balance.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Bosu Ball"
     ],
@@ -1422,7 +1403,7 @@
   },
   {
     "title": "Box Pike Holds",
-    "main_image": "./images/box-pike-holds.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Plyo Box"
     ],
@@ -1518,7 +1499,7 @@
   },
   {
     "title": "Butterfly Stretch",
-    "main_image": "./images/butterfly-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1705,7 +1686,7 @@
   },
   {
     "title": "Cardio - Assault Bike",
-    "main_image": "./images/cardio-assault-bike.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1718,7 +1699,7 @@
   },
   {
     "title": "Cardio - Walking / Treadmill",
-    "main_image": "./images/cardio-walking-treadmill.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT",
       "Treadmill"
@@ -1735,7 +1716,7 @@
   },
   {
     "title": "Cardio – Road Bike / Cycling / Riding",
-    "main_image": "./images/cardio-road-bike-cycling-riding.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1751,7 +1732,7 @@
   },
   {
     "title": "Cardio – Running / Jogging / Treadmill",
-    "main_image": "./images/cardio-running-jogging-treadmill.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT",
       "Treadmill"
@@ -1767,7 +1748,7 @@
   },
   {
     "title": "Cardio – Swimming",
-    "main_image": "./images/cardio-swimming.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -1790,7 +1771,7 @@
   },
   {
     "title": "Cardio – Cross Trainer / Crosstrainer Machine",
-    "main_image": "./images/cardio-cross-trainer-crosstrainer-machine.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1808,7 +1789,7 @@
   },
   {
     "title": "Cardio – Elliptical Machine",
-    "main_image": "./images/cardio-elliptical-machine.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1824,7 +1805,7 @@
   },
   {
     "title": "Cardio – Recumbent Bike",
-    "main_image": "./images/cardio-recumbent-bike.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1840,7 +1821,7 @@
   },
   {
     "title": "Cardio – Rowing Machine",
-    "main_image": "./images/cardio-rowing-machine.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1858,7 +1839,7 @@
   },
   {
     "title": "Cardio – Stairmaster / Stairmill",
-    "main_image": "./images/cardio-stairmaster-stairmill.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -1874,7 +1855,7 @@
   },
   {
     "title": "Cardio – Stationary / Exercise Bike / Bicycle Spinning",
-    "main_image": "./images/cardio-stationary-exercise-bike-bicycle-spinning.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Stationary Bike"
     ],
@@ -2004,7 +1985,7 @@
   },
   {
     "title": "Cobra Abdominal Stretch / Old Horse Stretch",
-    "main_image": "./images/cobra-abdominal-stretch-old-horse-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2018,7 +1999,7 @@
   },
   {
     "title": "Contralateral Limb Raises",
-    "main_image": "./images/contralateral-limb-raises.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2083,20 +2064,6 @@
     "description": "How to Do Crab Walks Sit on the ground with your knees bent, feet flat on the ground and your hands behind you. Your hands should be facing forward towards you. Begin the movement by lifting your hips into the air and bracing your abdominals. Your hips must stay up throughout the movement. Walk forward by moving your right foot and right hand forward. Switch to the left side. Continue this back and forth pattern while keeping your hips elevated. When finished, lower yourself to the ground."
   },
   {
-    "title": "Crab Walks",
-    "main_image": "./images/crab-walks.svg",
-    "equipment_required": [
-      "NO EQUIPMENT"
-    ],
-    "muscles_worked_primary": [
-      "Abs"
-    ],
-    "muscles_worked_secondary": [
-      "Lower Back"
-    ],
-    "description": "How to Do Crab Walks Take a seat on the ground with your knees bent, your feet flat, and your hands just behind you. Keep your fingertips pointing in the same direction as your feet. Lift your butt off the ground and then start walking forward, with your hands and feet, nice and slowly to start. Continue this back and forth pattern, or even side to side like a real crab!"
-  },
-  {
     "title": "Cross body Cable Rows",
     "main_image": "./images/cross-body-cable-rows.svg",
     "equipment_required": [
@@ -2140,7 +2107,7 @@
   },
   {
     "title": "Dance / Dancing",
-    "main_image": "./images/dance-dancing.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -2875,7 +2842,7 @@
   },
   {
     "title": "Farmer?s Walk / Carry",
-    "main_image": "./images/farmer-s-walk-carry.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Dumbbells",
       "Kettlebells"
@@ -3008,7 +2975,7 @@
   },
   {
     "title": "Foam Roller Chest Opener Stretch",
-    "main_image": "./images/foam-roller-chest-opener-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Foam roller"
     ],
@@ -3056,7 +3023,7 @@
   },
   {
     "title": "Foam Roller Inner Thigh Adductor / Adduction Stretch",
-    "main_image": "./images/foam-roller-inner-thigh-adductor-adduction-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3236,7 +3203,7 @@
   },
   {
     "title": "Gluteus / Glute / Gluteal Stretch",
-    "main_image": "./images/gluteus-glute-gluteal-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3299,7 +3266,7 @@
   },
   {
     "title": "Gymnastic Ring L-Holds",
-    "main_image": "./images/gymnastic-ring-l-holds.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3331,7 +3298,7 @@
   },
   {
     "title": "Gymnastic Ring Support Position",
-    "main_image": "./images/gymnastic-ring-support-position.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Gymnastic Rings"
     ],
@@ -3379,7 +3346,7 @@
   },
   {
     "title": "Hamstring Stretch",
-    "main_image": "./images/hamstring-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3606,7 +3573,7 @@
   },
   {
     "title": "Hollow Body Rock Hold",
-    "main_image": "./images/hollow-body-rock-hold.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3745,7 +3712,7 @@
   },
   {
     "title": "Incline Planks",
-    "main_image": "./images/incline-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -3998,7 +3965,7 @@
   },
   {
     "title": "Knee Plank",
-    "main_image": "./images/knee-plank.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4044,7 +4011,7 @@
   },
   {
     "title": "Knee-to-Chest Lower Back Stretch",
-    "main_image": "./images/knee-to-chest-lower-back-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4130,7 +4097,7 @@
   },
   {
     "title": "Kneeling Wrist / Forearm Stretch",
-    "main_image": "./images/kneeling-wrist-forearm-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4858,7 +4825,7 @@
   },
   {
     "title": "Modified Side Planks",
-    "main_image": "./images/modified-side-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4871,7 +4838,7 @@
   },
   {
     "title": "Monkey Bars / Climbing Frame",
-    "main_image": "./images/monkey-bars-climbing-frame.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -4919,7 +4886,7 @@
   },
   {
     "title": "Neck Stretch",
-    "main_image": "./images/neck-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -4946,7 +4913,7 @@
   },
   {
     "title": "NuStep Machine / Recumbent Cross Trainer",
-    "main_image": "./images/nustep-machine-recumbent-cross-trainer.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -5151,7 +5118,7 @@
   },
   {
     "title": "Overhead Triceps Stretch",
-    "main_image": "./images/overhead-triceps-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5228,7 +5195,7 @@
   },
   {
     "title": "Piriformis Stretch",
-    "main_image": "./images/piriformis-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5259,7 +5226,7 @@
   },
   {
     "title": "Plank",
-    "main_image": "./images/plank.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5407,7 +5374,7 @@
   },
   {
     "title": "Playground - Hopscotch",
-    "main_image": "./images/playground-hopscotch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5417,7 +5384,7 @@
   },
   {
     "title": "Playground - Monkey Bars",
-    "main_image": "./images/playground-monkey-bars.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -5425,7 +5392,7 @@
   },
   {
     "title": "Playground - Swing / Swings",
-    "main_image": "./images/playground-swing-swings.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -5433,7 +5400,7 @@
   },
   {
     "title": "Playground - Tag / It / Cops and Robbers",
-    "main_image": "./images/playground-tag-it-cops-and-robbers.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5522,7 +5489,7 @@
   },
   {
     "title": "Prone / Lying Leg Lifts",
-    "main_image": "./images/prone-lying-leg-lifts.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5600,7 +5567,7 @@
   },
   {
     "title": "Ragdoll / Forward Bend / Fold Stretch / Toe Touches",
-    "main_image": "./images/ragdoll-forward-bend-fold-stretch-toe-touches.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -5702,7 +5669,7 @@
   },
   {
     "title": "Resistance Band Calf Stretch",
-    "main_image": "./images/resistance-band-calf-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Resistance Bands"
     ],
@@ -6089,7 +6056,7 @@
   },
   {
     "title": "Reverse Shoulder Stretch",
-    "main_image": "./images/reverse-shoulder-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6151,7 +6118,7 @@
   },
   {
     "title": "Rope Climb",
-    "main_image": "./images/rope-climb.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Climbing Rope"
     ],
@@ -6183,7 +6150,7 @@
   },
   {
     "title": "Roundhouse / Side Kicks",
-    "main_image": "./images/roundhouse-side-kicks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6211,7 +6178,7 @@
   },
   {
     "title": "Samson / Lunge Stretch",
-    "main_image": "./images/samson-lunge-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6462,7 +6429,7 @@
   },
   {
     "title": "Seated Cross Body Shoulder Stretches",
-    "main_image": "./images/seated-cross-body-shoulder-stretches.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6598,7 +6565,7 @@
   },
   {
     "title": "Seated Hamstring Stretches",
-    "main_image": "./images/seated-hamstring-stretches.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -6754,20 +6721,6 @@
       "Abs"
     ],
     "description": "How to Do Seated Lumbar Rotations / Chair Twists Seat yourself on a solid chair, with your back straight and unsupported. Keep your feet firmly planted on the ground at a comfortable width. Place your hands on your upper chest, crossed at the wrists. When ready, turn your body to one side while keeping your glutes in full contact with the chair, maintain an upright posture. Twist your body until you feel a light stretch in your lower back, hold, and then return to the starting position. Do not over twist here, aim for a light stretch only"
-  },
-  {
-    "title": "Seated Lumbar Rotations / Chair Twists",
-    "main_image": "./images/seated-lumbar-rotations-chair-twists.svg",
-    "equipment_required": [
-      "NO EQUIPMENT"
-    ],
-    "muscles_worked_primary": [
-      "Lower Back"
-    ],
-    "muscles_worked_secondary": [
-      "Abs"
-    ],
-    "description": "How to Do Seated Lumbar Rotations / Chair Twists Seat yourself on a solid chair, with your back straight and unsupported. Keep your feet firmly planted on the ground at a comfortable width. Place your hands on your upper chest, or on your thighs. When ready, turn your body to one side while keeping your glutes in full contact with the chair, maintain an upright posture. Twist your body until you feel a light stretch in your lower back, hold, and then return to the starting position."
   },
   {
     "title": "Seated Machine Back Row",
@@ -6962,7 +6915,7 @@
   },
   {
     "title": "Seated Rest / Water Break",
-    "main_image": "./images/seated-rest-water-break.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7068,7 +7021,7 @@
   },
   {
     "title": "Seated Vacuum",
-    "main_image": "./images/seated-vacuum.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7080,7 +7033,7 @@
   },
   {
     "title": "Semi-Supine Laying Down / Constructive Rest Position",
-    "main_image": "./images/semi-supine-laying-down-constructive-rest-position.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7095,7 +7048,7 @@
   },
   {
     "title": "Semi-Tandem Standing / Stance Balance",
-    "main_image": "./images/semi-tandem-standing-stance-balance.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7145,7 +7098,7 @@
   },
   {
     "title": "Shoulder Stretch",
-    "main_image": "./images/shoulder-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7218,7 +7171,7 @@
   },
   {
     "title": "Side Lying Quadricep Stretch",
-    "main_image": "./images/side-lying-quadricep-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7230,7 +7183,7 @@
   },
   {
     "title": "Side Plank",
-    "main_image": "./images/side-plank.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7661,7 +7614,7 @@
   },
   {
     "title": "Skipping / Jump Rope",
-    "main_image": "./images/skipping-jump-rope.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7669,7 +7622,7 @@
   },
   {
     "title": "Sled Pulls",
-    "main_image": "./images/sled-pulls.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Sled"
     ],
@@ -7684,7 +7637,7 @@
   },
   {
     "title": "Sled Pushes",
-    "main_image": "./images/sled-pushes.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym",
       "Sled"
@@ -7827,7 +7780,7 @@
   },
   {
     "title": "Sports - Baseball / Softball / Rounders",
-    "main_image": "./images/sports-baseball-softball-rounders.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7835,7 +7788,7 @@
   },
   {
     "title": "Sports - Frisbee",
-    "main_image": "./images/sports-frisbee.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7843,7 +7796,7 @@
   },
   {
     "title": "Sports - Hacky Sack / Footbag",
-    "main_image": "./images/sports-hacky-sack-footbag.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -7853,7 +7806,7 @@
   },
   {
     "title": "Sports - Soccer / Football",
-    "main_image": "./images/sports-soccer-football.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7861,7 +7814,7 @@
   },
   {
     "title": "Sports - Tennis / Paddle / Racquetball",
-    "main_image": "./images/sports-tennis-paddle-racquetball.svg",
+    "main_image": "No main image found",
     "equipment_required": [],
     "muscles_worked_primary": [],
     "muscles_worked_secondary": [],
@@ -7869,7 +7822,7 @@
   },
   {
     "title": "Sprints",
-    "main_image": "./images/sprints.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8093,7 +8046,7 @@
   },
   {
     "title": "Stability / Swiss / Exercise Ball Plank",
-    "main_image": "./images/stability-swiss-exercise-ball-plank.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -8225,7 +8178,7 @@
   },
   {
     "title": "Standing Adductor / Adduction Stretch",
-    "main_image": "./images/standing-adductor-adduction-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8546,7 +8499,7 @@
   },
   {
     "title": "Standing Hamstring Stretch",
-    "main_image": "./images/standing-hamstring-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8575,7 +8528,7 @@
   },
   {
     "title": "Standing Knee Hugs",
-    "main_image": "./images/standing-knee-hugs.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8665,7 +8618,7 @@
   },
   {
     "title": "Standing Palm-Down Wrist Stretch",
-    "main_image": "./images/standing-palm-down-wrist-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8678,7 +8631,7 @@
   },
   {
     "title": "Standing Palm-Up Wrist Stretch",
-    "main_image": "./images/standing-palm-up-wrist-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8691,7 +8644,7 @@
   },
   {
     "title": "Standing Quadricep Stretch",
-    "main_image": "./images/standing-quadricep-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8702,20 +8655,6 @@
       "Glutes & Hip Flexors"
     ],
     "description": "How to Do Standing Quadricep Stretch Stand next to a wall or stationary object to support your balance. Grasp the top of your right ankle or forefoot with your right hand and pull the ankle or foot towards your buttocks. Straighten the right hip by moving your knee slightly backwards and making sure it faces the floor. Don’t let your knee flare out towards the side Hold the stretch and repeat on the left leg."
-  },
-  {
-    "title": "Standing Quadricep Stretch",
-    "main_image": "./images/standing-quadricep-stretch.svg",
-    "equipment_required": [
-      "NO EQUIPMENT"
-    ],
-    "muscles_worked_primary": [
-      "Quadriceps"
-    ],
-    "muscles_worked_secondary": [
-      "Glutes & Hip Flexors"
-    ],
-    "description": "How to Do Standing Quadricep Stretch Stand next to a wall or stationary object to support your balance. Grasp the top of your right ankle or forefoot with your right hand and pull the ankle or foot towards your buttocks. Straighten the right hip by moving your knee slightly backwards and making sure it faces the floor. Don’t let your knee flare out towards the side. Hold the stretch and repeat on the left leg."
   },
   {
     "title": "Standing Resistance Band Chest Pulls / Chest Openers / Back Flyes",
@@ -8734,7 +8673,7 @@
   },
   {
     "title": "Standing Rest / Water Break",
-    "main_image": "./images/standing-rest-water-break.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8924,7 +8863,7 @@
   },
   {
     "title": "Star Planks",
-    "main_image": "./images/star-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8936,7 +8875,7 @@
   },
   {
     "title": "Static Bicep Curls",
-    "main_image": "./images/static-bicep-curls.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Dumbbells"
     ],
@@ -8950,7 +8889,7 @@
   },
   {
     "title": "Static Push-up / Pushup Hold",
-    "main_image": "./images/static-push-up-pushup-hold.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -8967,7 +8906,7 @@
   },
   {
     "title": "Static Squat Hold",
-    "main_image": "./images/static-squat-hold.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9029,7 +8968,7 @@
   },
   {
     "title": "Straight-Leg Calf Stretch",
-    "main_image": "./images/straight-leg-calf-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9091,7 +9030,7 @@
   },
   {
     "title": "Supine Lying Down Position / Corpse Pose",
-    "main_image": "./images/supine-lying-down-position-corpse-pose.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9122,7 +9061,7 @@
   },
   {
     "title": "Swiss Ball Squeezes",
-    "main_image": "./images/swiss-ball-squeezes.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Swiss / Exercise Ball"
     ],
@@ -9134,7 +9073,7 @@
   },
   {
     "title": "Tandem Standing / Stance Balance",
-    "main_image": "./images/tandem-standing-stance-balance.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -9286,7 +9225,7 @@
   },
   {
     "title": "TRX Suspension Strap Planks",
-    "main_image": "./images/trx-suspension-strap-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9348,7 +9287,7 @@
   },
   {
     "title": "TRX Suspension Strap Side Planks",
-    "main_image": "./images/trx-suspension-strap-side-planks.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Suspension Straps / TRX"
     ],
@@ -9639,7 +9578,7 @@
   },
   {
     "title": "Upper Body Ergometers / Bike / UBE",
-    "main_image": "./images/upper-body-ergometers-bike-ube.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "Full gym"
     ],
@@ -10022,7 +9961,7 @@
   },
   {
     "title": "Wide Arm Chest Stretch / Reverse Butterfly Stretch",
-    "main_image": "./images/wide-arm-chest-stretch-reverse-butterfly-stretch.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],
@@ -10111,7 +10050,7 @@
   },
   {
     "title": "Your exercise (placeholder)",
-    "main_image": "./images/your-exercise-placeholder.svg",
+    "main_image": "No main image found",
     "equipment_required": [
       "NO EQUIPMENT"
     ],

@@ -3,167 +3,669 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Workout Data</title>
+    <title>Workout Plan</title>
     <style>
       :root {
         color-scheme: light;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: Inter, Arial, Helvetica, sans-serif;
       }
 
+      html,
       body {
+        height: 100%;
         margin: 0;
-        padding: 24px;
+        overflow: hidden;
         background: #f6f7fb;
-        color: #222;
+        color: #1d1f23;
       }
 
-      h1 {
-        margin-top: 0;
+      h1,
+      h2,
+      h3,
+      h4,
+      h5 {
+        margin: 0;
       }
 
-      .toolbar {
+      .page {
+        height: 100vh;
         display: flex;
-        gap: 12px;
-        align-items: center;
-        margin-bottom: 16px;
+        flex-direction: column;
+        justify-content: space-between;
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 8px;
       }
 
-      button {
-        border: 1px solid #4a63d8;
-        background: #4a63d8;
-        color: white;
-        border-radius: 8px;
+      #planSection {
+        flex: 1 1 auto;
+        min-height: 0;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .hero {
+        background: transparent;
+        border: none;
+        border-radius: 0;
+        padding: 0;
+      }
+
+      .hero p {
+        margin: 4px 0 0;
+      }
+
+      . {
+        width: 100%;
+        margin-top: 8px;
+        padding: 12px 14px;
+      }
+
+      .hero p {
+        margin: 8px 0 0;
+        color: #4b5563;
+        font-size: 0.95rem;
+        line-height: 1.4;
+      }
+
+      .day-pill {
+        display: inline-flex;
+        gap: 8px;
+        background: #eef2ff;
+        color: #3730a3;
         padding: 8px 12px;
+        border-radius: 999px;
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+
+      .next-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        border: none;
+        border-radius: 999px;
+        background: #4f46e5;
+        color: #ffffff;
+        padding: 12px 16px;
+        font-size: 1rem;
         cursor: pointer;
       }
 
-      button.secondary {
-        background: white;
-        color: #4a63d8;
+      .section {
+        margin-top: 10px;
       }
 
-      pre {
-        background: #111827;
-        color: #e5e7eb;
+      .section h2 {
+        margin-bottom: 8px;
+        font-size: 0.98rem;
+      }
+
+      .section h3 {
+        display: none;
+      }
+
+      .exercise-list {
+        display: grid;
+        gap: 8px;
+      }
+
+      .exercise-card {
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        border-radius: 16px;
         padding: 16px;
-        border-radius: 10px;
-        overflow: auto;
-        white-space: pre-wrap;
-        word-break: break-word;
+        box-shadow: none;
       }
 
-      .card {
-        background: #fff;
-        border: 1px solid #d8dceb;
-        border-radius: 10px;
-        padding: 16px;
-        margin-bottom: 16px;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-      }
-
-      .card h2 {
-        margin-top: 0;
-      }
-
-      .card img {
-        max-width: 260px;
-        width: 100%;
-        height: auto;
-        border-radius: 8px;
+      .exercise-header {
         display: block;
-        margin: 12px 0;
+        gap: 10px;
+        align-items: flex-start;
       }
 
-      .muted {
-        color: #555;
+      .exercise-header h4 {
+        font-size: 1.05rem;
+      }
+
+      .meta {
+        color: #6b7280;
+        font-size: 0.95rem;
+      }
+
+      .exercise-image {
+        width: 100%;
+        max-width: 260px;
+        max-height: 170px;
+        height: auto;
+        border-radius: 12px;
+        margin: 10px 0;
+        object-fit: contain;
+        border: 1px solid #e5e7eb;
+        padding: 10px;
+        background: #f8fafc;
+      }
+
+      .exercise-body p {
+        margin: 0;
+        line-height: 1.4;
+        color: #374151;
+        font-size: 0.92rem;
+      }
+
+      .form-grid {
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: 8px;
+        margin-top: 12px;
+      }
+
+      label {
+        display: grid;
+        gap: 6px;
+        font-size: 0.95rem;
+        color: #374151;
+      }
+
+      input,
+      select {
+        width: 100%;
+        border: 1px solid #d1d5db;
+        border-radius: 12px;
+        padding: 10px 12px;
+        font-size: 0.95rem;
+        color: #111827;
+        background: #ffffff;
+      }
+
+      input:focus,
+      select:focus {
+        outline: 2px solid #c7d2fe;
+        outline-offset: 2px;
+      }
+
+      .hint {
+        display: none;
+      }
+
+      @media (max-width: 720px) {
+        .page {
+          padding: 8px;
+        }
+
+        .exercise-card {
+          padding: 14px;
+        }
+
+        .next-button {
+          margin: 25px;
+          padding: 12px;
+        }
       }
     </style>
   </head>
   <body>
-    <h1>Workout Data</h1>
-    <div class="toolbar">
-      <button id="jsonBtn">JSON View</button>
-      <button id="humanBtn" class="secondary">Human View</button>
+    <div class="page">
+      <div class="hero">
+        <div class="day-pill" id="dayPill">DAY 1</div>
+      </div>
+
+      <section class="section" id="planSection"></section>
+      <button class="next-button" id="nextBtn">Next exercise</button>
+      <div class="hint"></div>
     </div>
-    <div id="app"></div>
 
     <script>
-      let workoutData = [];
-      let currentView = "json";
+      const STORAGE_KEY = "workoutPlannerState";
 
-      function renderJson() {
-        const app = document.getElementById("app");
-        app.innerHTML = `<pre>${JSON.stringify(workoutData, null, 2)}</pre>`;
+const planDays = [
+  {
+    id: "day1",
+    title: "DAY 1 — Monday / Tuesday",
+    subtitle: "Strength + Core",
+    sections: [
+      {
+        title: "Lower Body",
+        items: [
+          {
+            id: "water-bottle-lunges",
+            title: "Water Bottle Lunges",
+            image: "./in_use/water-bottle-lunges.svg",
+            imageName: "water-bottle-lunges.svg",
+            muscles: ["Quadriceps", "Glutes & Hip Flexors", "Calves"],
+            description: "Use a full water bottle or dumbbell. Step forward with control and keep your chest upright.",
+            defaultSets: "3",
+            defaultReps: "10 each leg",
+            defaultWeight: "Water bottle / bodyweight"
+          },
+          {
+            id: "partial-squats",
+            title: "Partial Squats",
+            image: "./in_use/partial-half-squats.svg",
+            imageName: "partial-half-squats.svg",
+            muscles: ["Quadriceps", "Glutes & Hip Flexors"],
+            description: "Lower into a shallow squat while keeping the weight on your heels. Focus on control and range of motion.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Bodyweight"
+          }
+        ]
+      },
+      {
+        title: "Upper Body",
+        items: [
+          {
+            id: "push-ups",
+            title: "Push-ups",
+            image: "./in_use/push-ups-pushups.svg",
+            imageName: "push-ups-pushups.svg",
+            muscles: ["Chest", "Shoulders", "Triceps"],
+            description: "Keep your body in a straight line from head to heels. Lower until your chest is just above the floor.",
+            defaultSets: "3",
+            defaultReps: "10-15",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "bent-over-barbell-rows",
+            title: "Bent Over Barbell Rows (use dumbbells)",
+            image: "./in_use/bent-over-barbell-rows.svg",
+            imageName: "bent-over-barbell-rows.svg",
+            muscles: ["Middle Back / Lats", "Biceps", "Rear Shoulders"],
+            description: "Hinge at the hips and pull with your elbows. Keep a flat back and squeeze your shoulder blades.",
+            defaultSets: "3",
+            defaultReps: "10",
+            defaultWeight: "Dumbbells"
+          }
+        ]
+      },
+      {
+        title: "Core",
+        items: [
+          {
+            id: "russian-twists",
+            title: "Russian Twists (with dumbbell)",
+            image: "./in_use/russian-mason-v-sit-twists.svg",
+            imageName: "russian-mason-v-sit-twists.svg",
+            muscles: ["Abs", "Obliques"],
+            description: "Hold a dumbbell or water bottle and rotate your torso from side to side while keeping your core tight.",
+            defaultSets: "3",
+            defaultReps: "20",
+            defaultWeight: "Light dumbbell"
+          },
+          {
+            id: "reverse-crunches",
+            title: "Reverse Crunches",
+            image: "./in_use/reverse-crunch.svg",
+            imageName: "reverse-crunch.svg",
+            muscles: ["Abs", "Lower Abs"],
+            description: "Lift your hips toward the ceiling using your lower abs. Keep the movement controlled on the way down.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Bodyweight"
+          }
+        ]
+      },
+      {
+        title: "Optional Finisher",
+        items: [
+          {
+            id: "sprints",
+            title: "Sprints",
+            image: null,
+            imageName: "No image",
+            muscles: ["Legs", "Glutes", "Core"],
+            description: "20 seconds on, 40 seconds off for 5 rounds. Use a track, driveway, or place to sprint safely.",
+            defaultSets: "5",
+            defaultReps: "20 sec on / 40 sec off",
+            defaultWeight: "Bodyweight"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    id: "day2",
+    title: "DAY 2 — Wednesday",
+    subtitle: "Strength + Upper/Posterior Chain",
+    sections: [
+      {
+        title: "Lower Body",
+        items: [
+          {
+            id: "explosive-jumping-alternating-lunges",
+            title: "Explosive Jumping Alternating Lunges",
+            image: "./in_use/explosive-jumping-alternating-lunges.svg",
+            imageName: "explosive-jumping-alternating-lunges.svg",
+            muscles: ["Quadriceps", "Glutes & Hip Flexors", "Calves"],
+            description: "Move quickly between lunges while keeping your chest upright and landing softly.",
+            defaultSets: "3",
+            defaultReps: "12 each leg",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "dumbbell-swings",
+            title: "Dumbbell Swings (kettlebell swing replacement)",
+            image: "./in_use/one-arm-kettlebell-swings.svg",
+            imageName: "one-arm-kettlebell-swings.svg",
+            muscles: ["Hamstrings", "Glutes", "Core"],
+            description: "Drive your hips forward and swing the weight to shoulder height. Keep your back flat.",
+            defaultSets: "3",
+            defaultReps: "15",
+            defaultWeight: "Dumbbell"
+          }
+        ]
+      },
+      {
+        title: "Upper Body",
+        items: [
+          {
+            id: "upright-dumbbell-rows",
+            title: "Upright Dumbbell Rows",
+            image: "./in_use/upright-dumbbell-rows.svg",
+            imageName: "upright-dumbbell-rows.svg",
+            muscles: ["Shoulders", "Upper Back"],
+            description: "Pull the dumbbells to your collarbone with elbows high and wide.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Dumbbells"
+          },
+          {
+            id: "dumbbell-bicep-curls",
+            title: "Dumbbell Bicep Curls (TRX replacement)",
+            image: "./in_use/standing-dumbbell-bicep-curls.svg",
+            imageName: "standing-dumbbell-bicep-curls.svg",
+            muscles: ["Biceps"],
+            description: "Keep your elbows by your sides and curl steadily through the full range of motion.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Dumbbells"
+          }
+        ]
+      },
+      {
+        title: "Core",
+        items: [
+          {
+            id: "bicycles",
+            title: "Bicycles / Cross-Body Crunches",
+            image: "./in_use/bicycles-elbow-to-knee-crunches-cross-body-crunches.svg",
+            imageName: "bicycles-elbow-to-knee-crunches-cross-body-crunches.svg",
+            muscles: ["Abs", "Obliques"],
+            description: "Alternate elbow to opposite knee while keeping your lower back pressed into the floor.",
+            defaultSets: "3",
+            defaultReps: "20",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "plank",
+            title: "Plank",
+            image: "./in_use/plank-leg-lifts.svg",
+            imageName: "plank-leg-lifts.svg",
+            muscles: ["Core", "Shoulders"],
+            description: "Maintain a straight line from head to heels while breathing steadily.",
+            defaultSets: "3",
+            defaultReps: "45 seconds",
+            defaultWeight: "Bodyweight"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    id: "day3",
+    title: "DAY 3 — Thursday / Friday",
+    subtitle: "Strength + Explosive Power",
+    sections: [
+      {
+        title: "Lower Body",
+        items: [
+          {
+            id: "bench-hops-box-jumps",
+            title: "Bench Hops / Box Jumps",
+            image: "./in_use/bench-hops-box-jumps.svg",
+            imageName: "bench-hops-box-jumps.svg",
+            muscles: ["Quadriceps", "Glutes", "Calves"],
+            description: "Jump explosively onto the box or bench and step down with control.",
+            defaultSets: "3",
+            defaultReps: "20 seconds",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "goblet-squats",
+            title: "Goblet Squats (sled push replacement)",
+            image: "./in_use/goblet-squats.svg",
+            imageName: "goblet-squats.svg",
+            muscles: ["Quadriceps", "Glutes", "Hamstrings"],
+            description: "Hold weight at chest height and sit back until your thighs are parallel to the floor.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Dumbbell"
+          }
+        ]
+      },
+      {
+        title: "Upper Body",
+        items: [
+          {
+            id: "bodyweight-shoulder-press",
+            title: "Bodyweight Shoulder Press",
+            image: "./in_use/bodyweight-shoulder-presses.svg",
+            imageName: "bodyweight-shoulder-presses.svg",
+            muscles: ["Shoulders", "Triceps"],
+            description: "Use a controlled bodyweight variation, pressing from a stable shoulder-height position.",
+            defaultSets: "3",
+            defaultReps: "12",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "bent-over-dumbbell-rows",
+            title: "Bent Over Dumbbell Rows",
+            image: "./in_use/single-one-arm-dumbbell-bench-rows.svg",
+            imageName: "single-one-arm-dumbbell-bench-rows.svg",
+            muscles: ["Back", "Biceps"],
+            description: "Pull the dumbbell to your ribcage while keeping your upper body stable and core tight.",
+            defaultSets: "3",
+            defaultReps: "10",
+            defaultWeight: "Dumbbells"
+          }
+        ]
+      },
+      {
+        title: "Core",
+        items: [
+          {
+            id: "toe-touch-crunches",
+            title: "Toe Touch Crunches",
+            image: "./in_use/jackknife-sit-ups-crunch-toe-touches.svg",
+            imageName: "jackknife-sit-ups-crunch-toe-touches.svg",
+            muscles: ["Abs"],
+            description: "Reach your hands toward your toes while keeping your legs lifted and your core engaged.",
+            defaultSets: "3",
+            defaultReps: "15",
+            defaultWeight: "Bodyweight"
+          },
+          {
+            id: "russian-twists-2",
+            title: "Russian Twists",
+            image: "./in_use/russian-mason-v-sit-twists.svg",
+            imageName: "russian-mason-v-sit-twists.svg",
+            muscles: ["Abs", "Obliques"],
+            description: "Twist from side to side with a slow, controlled motion.",
+            defaultSets: "3",
+            defaultReps: "20",
+            defaultWeight: "Light weight"
+          }
+        ]
+      }
+    ]
+  }
+];
+
+
+      const planSection = document.getElementById("planSection");
+      const dayPill = document.getElementById("dayPill");
+      const nextBtn = document.getElementById("nextBtn");
+      const introText = document.getElementById("introText");
+
+      const state = loadState();
+
+      function getAutoDayIndex() {
+        const weekday = new Date().getDay();
+        if (weekday === 0 || weekday === 6) return 0;
+        if (weekday === 1 || weekday === 2) return 0;
+        if (weekday === 3) return 1;
+        if (weekday === 4 || weekday === 5) return 2;
+        return 0;
       }
 
-      function renderHuman() {
-        const app = document.getElementById("app");
-        app.innerHTML = "";
+      function loadState() {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        const autoDay = getAutoDayIndex();
+        if (saved) {
+          try {
+            const parsed = JSON.parse(saved);
+            return {
+              selectedDay: autoDay,
+              activeExerciseId: parsed.activeExerciseId,
+              inputs: parsed.inputs || {}
+            };
+          } catch (err) {
+            console.warn("Could not parse saved workout state", err);
+          }
+        }
+        return {
+          selectedDay: autoDay,
+          activeExerciseId: undefined,
+          inputs: {}
+        };
+      }
 
-        workoutData.forEach((item) => {
-          const card = document.createElement("div");
-          card.className = "card";
+      function saveState() {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      }
 
-          const title = item.title || "Untitled Workout";
-          const image = item.main_image || "";
-          const equipment = (item.equipment_required || []).join(", ") || "N/A";
-          const primary = (item.muscles_worked_primary || []).join(", ") || "N/A";
-          const secondary = (item.muscles_worked_secondary || []).join(", ") || "N/A";
-          const description = item.description || "No description available.";
+      function getSavedInput(dayId, itemId, field, fallback) {
+        return ((state.inputs[dayId] || {})[itemId] || {})[field] ?? fallback;
+      }
 
-          card.innerHTML = `
-            <h2>${title}</h2>
-            <div class="muted">
-              <strong>Equipment:</strong> ${equipment}<br />
-              <strong>Primary muscles:</strong> ${primary}<br />
-              <strong>Secondary muscles:</strong> ${secondary}
-            </div>
-            ${image ? `<img src="${image}" alt="${title}" loading="lazy" onerror="this.style.display='none'; this.parentElement.insertAdjacentHTML('beforeend', '<p class=\"muted\">Image unavailable</p>');" />` : ""}
-            <p>${description}</p>
-          `;
+      function getAllExerciseIdsForDay(dayIndex) {
+        return planDays[dayIndex].sections.flatMap((section) => section.items.map((item) => item.id));
+      }
 
-          app.appendChild(card);
+      function getActiveExerciseIdForDay(dayIndex) {
+        const allIds = getAllExerciseIdsForDay(dayIndex);
+        if (!state.activeExerciseId || !allIds.includes(state.activeExerciseId)) {
+          return allIds[0];
+        }
+        return state.activeExerciseId;
+      }
+
+      function renderPlan() {
+        const plan = planDays[state.selectedDay];
+        const activeExerciseId = getActiveExerciseIdForDay(state.selectedDay);
+        state.activeExerciseId = activeExerciseId;
+        saveState();
+
+        dayPill.textContent = plan.title;
+        planSection.innerHTML = "";
+
+        plan.sections.forEach((section) => {
+          const containsActive = section.items.some((item) => item.id === activeExerciseId);
+          if (!containsActive) {
+            return;
+          }
+          const sectionEl = document.createElement("section");
+          sectionEl.className = "section";
+          sectionEl.innerHTML = `<h2>${section.title}</h2>`;
+
+          const list = document.createElement("div");
+          list.className = "exercise-list";
+
+          section.items.forEach((item) => {
+            const card = document.createElement("article");
+            card.className = "exercise-card";
+            if (item.id !== activeExerciseId) {
+              card.style.display = "none";
+            }
+
+            const muscles = item.muscles.join(", ");
+            const savedSets = getSavedInput(plan.id, item.id, "sets", item.defaultSets);
+            const savedReps = getSavedInput(plan.id, item.id, "reps", item.defaultReps);
+            const savedWeight = getSavedInput(plan.id, item.id, "weight", item.defaultWeight);
+
+            const imageHtml = item.image
+              ? `<img class="exercise-image" src="${item.image}" alt="${item.title}" loading="lazy" onerror="this.style.display='none';" />`
+              : `<div class="meta">No image available</div>`;
+
+            card.innerHTML = `
+              <div class="exercise-header">
+                <div>
+                  <h4>${item.title}</h4>
+                </div>
+              </div>
+              ${imageHtml}
+              <div class="exercise-body">
+                <p><strong>Muscles worked:</strong> ${muscles}</p>
+                <p>${item.description}</p>
+              </div>
+              <div class="form-grid">
+                <label>
+                  Sets
+                  <input data-day="${plan.id}" data-item="${item.id}" data-field="sets" type="number" min="1" value="${savedSets}" />
+                </label>
+                <label>
+                  Reps / Time
+                  <input data-day="${plan.id}" data-item="${item.id}" data-field="reps" type="text" value="${savedReps}" />
+                </label>
+                <label>
+                  Weight level / notes
+                  <input data-day="${plan.id}" data-item="${item.id}" data-field="weight" type="text" value="${savedWeight}" />
+                </label>
+              </div>
+            `;
+
+            list.appendChild(card);
+          });
+
+          sectionEl.appendChild(list);
+          planSection.appendChild(sectionEl);
+        });
+
+        attachInputListeners();
+      }
+
+      function attachInputListeners() {
+        const inputs = document.querySelectorAll("input[data-day][data-item][data-field]");
+        inputs.forEach((input) => {
+          input.addEventListener("input", (event) => {
+            const target = event.target;
+            const dayId = target.dataset.day;
+            const itemId = target.dataset.item;
+            const field = target.dataset.field;
+            const value = target.value;
+            state.inputs[dayId] = state.inputs[dayId] || {};
+            state.inputs[dayId][itemId] = state.inputs[dayId][itemId] || {};
+            state.inputs[dayId][itemId][field] = value;
+            saveState();
+          });
         });
       }
 
-      function switchView(view) {
-        currentView = view;
-        if (view === "json") {
-          renderJson();
-        } else {
-          renderHuman();
-        }
+      function goToNext() {
+        const exerciseIds = getAllExerciseIdsForDay(state.selectedDay);
+        const currentIndex = exerciseIds.indexOf(state.activeExerciseId);
+        const nextIndex = (currentIndex + 1) % exerciseIds.length;
+        state.activeExerciseId = exerciseIds[nextIndex];
+        saveState();
+        renderPlan();
       }
 
-      async function loadData() {
-        const app = document.getElementById("app");
-        try {
-          const response = await fetch("./workouts.json");
-          if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-          }
-
-          workoutData = await response.json();
-          if (!Array.isArray(workoutData)) {
-            throw new Error("Expected a JSON array");
-          }
-
-          if (workoutData.length === 0) {
-            app.innerHTML = "<p>No workout data found.</p>";
-            return;
-          }
-
-          switchView("json");
-        } catch (error) {
-          console.error(error);
-          app.innerHTML = "<p>Failed to load workout data.</p>";
-        }
-      }
-
-      document.getElementById("jsonBtn").addEventListener("click", () => switchView("json"));
-      document.getElementById("humanBtn").addEventListener("click", () => switchView("human"));
-
-      loadData();
+      nextBtn.addEventListener("click", goToNext);
+      renderPlan();
     </script>
   </body>
 </html>

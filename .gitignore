@@ -25,9 +25,27 @@ env/
 !docs/index.html
 !docs/workouts.json
 
+# Local image assets for GitHub Pages
+/docs/images/unused
+
 # VS Code
 .vscode/
 
 # OS
 .DS_Store
 Thumbs.db
+!docs/images/water-bottle-lunges.svg
+!docs/images/partial-half-squats.svg
+!docs/images/push-ups-pushups.svg
+!docs/images/bent-over-barbell-rows.svg
+!docs/images/russian-mason-v-sit-twists.svg
+!docs/images/reverse-crunch.svg
+!docs/images/bench-hops-box-jumps.svg
+!docs/images/goblet-squats.svg
+!docs/images/upright-dumbbell-rows.svg
+!docs/images/standing-dumbbell-bicep-curls.svg
+!docs/images/bicycles-elbow-to-knee-crunches-cross-body-crunches.svg
+!docs/images/plank-leg-lifts.svg
+!docs/images/bodyweight-shoulder-presses.svg
+!docs/images/single-one-arm-dumbbell-bench-rows.svg
+!docs/images/jackknife-sit-ups-crunch-toe-touches.svg

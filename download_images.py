@@ -9,7 +9,8 @@ import requests
 
 
 ROOT = Path(__file__).resolve().parent
-JSON_PATH = ROOT / "docs" / "workouts.json"
+SOURCE_JSON_PATH = ROOT / "workouts.json"
+PUBLISHED_JSON_PATH = ROOT / "docs" / "workouts.json"
 IMAGE_DIR = ROOT / "docs" / "images"
 IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -40,10 +41,10 @@ def download_image(url: str, out_path: Path) -> bool:
 
 
 def main() -> None:
-    if not JSON_PATH.exists():
-        raise FileNotFoundError(f"Missing JSON file: {JSON_PATH}")
+    if not SOURCE_JSON_PATH.exists():
+        raise FileNotFoundError(f"Missing source JSON file: {SOURCE_JSON_PATH}")
 
-    workouts: list[dict[str, Any]] = json.loads(JSON_PATH.read_text(encoding="utf-8"))
+    workouts: list[dict[str, Any]] = json.loads(SOURCE_JSON_PATH.read_text(encoding="utf-8"))
 
     for index, workout in enumerate(workouts, start=1):
         image_url = workout.get("main_image") or ""
@@ -65,7 +66,7 @@ def main() -> None:
         else:
             print(f"[{index}/{len(workouts)}] Failed: {image_url}")
 
-    JSON_PATH.write_text(json.dumps(workouts, indent=2, ensure_ascii=False), encoding="utf-8")
+    PUBLISHED_JSON_PATH.write_text(json.dumps(workouts, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Finished. Files saved in {IMAGE_DIR}")
 
 
